@@ -31,6 +31,14 @@ SIGNAL -> PREDICT -> CREATE -> DISTRIBUTE -> CONVERT -> OPTIMISE -> COMPOUND
 ## Skill routing
 Use repo-scoped skills in `.agents/skills/` whenever a task matches a listed skill. The XOOL CMO orchestrator coordinates multi-skill work and verifies handoffs.
 
+### Video learning route
+When the user supplies a YouTube URL or local video:
+- use `$youtube-transcribe` to produce an agent-ready transcript;
+- if the user asks only for transcription/summary, complete that request directly;
+- if the user asks XOOL to learn, adopt knowledge, improve itself, upgrade an agent, or create a skill/SOP, hand the transcript to `$xool-video-learning`;
+- treat video claims as source material, not automatically as verified facts;
+- version meaningful system changes so they remain traceable and reversible.
+
 ## Client workspace
 Recommended structure:
 
