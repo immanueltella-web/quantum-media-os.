@@ -31,6 +31,15 @@ SIGNAL -> PREDICT -> CREATE -> DISTRIBUTE -> CONVERT -> OPTIMISE -> COMPOUND
 ## Skill routing
 Use repo-scoped skills in `.agents/skills/` whenever a task matches a listed skill. The XOOL CMO orchestrator coordinates multi-skill work and verifies handoffs.
 
+### Pinterest video production route
+When the user asks for Pinterest videos, Pin videos, short-form video ads, motion creatives, before/after videos, captioned clips, or reusable video templates:
+- use `$xool-pin-video-factory` to generate the batch strategy, hooks, scripts, production specs, Pinterest copy, and test hypotheses;
+- use `$xool-motion-creative` to choose and execute the free-first production route;
+- default to 1080x1920 vertical MP4, sound-off comprehension, a strong first-2-second hook, and one commercial hypothesis per asset;
+- prefer HyperFrames, Remotion, FFmpeg, Whisper/whisper.cpp, Edge TTS, existing footage, screen recordings, and animated stills before paid generative-video credits;
+- store production work and learning under `outputs/motion/`;
+- never call a video a winner until performance data supports it.
+
 ### Video learning route
 When the user supplies a YouTube URL or local video:
 - use `$youtube-transcribe` to produce an agent-ready transcript;
