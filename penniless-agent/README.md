@@ -33,3 +33,5 @@ Before work starts on a bounty:
 ## Limitation
 
 The GitHub Action can discover and triage earning opportunities automatically. It cannot safely fork arbitrary third-party repositories, sign payout agreements, complete KYC, or accept financial terms on your behalf. When it finds a good target, the next step is to implement the fix and submit the PR from your GitHub identity.
+
+Status: enabled for hourly scans and push-triggered scans.
