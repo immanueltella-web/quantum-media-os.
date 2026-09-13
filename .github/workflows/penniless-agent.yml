@@ -2,6 +2,10 @@ name: XOOL Penniless Agent
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'penniless-agent/**'
+      - '.github/workflows/penniless-agent.yml'
   schedule:
     - cron: '17 * * * *'
 
