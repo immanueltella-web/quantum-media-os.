@@ -28,6 +28,15 @@ SEARCHES = [
 ]
 
 MONEY_RE = re.compile(r"(?:\$|USD\s?|USDC\s?|£)\s?([0-9][0-9,]*(?:\.\d{1,2})?)", re.I)
+FALSE_BOUNTY_TERMS = (
+    "bounty inquiry",
+    "would you accept",
+    "no reward is assumed",
+    "proposed bounty",
+    "bounty proposal",
+    "seeking bounty",
+    "requesting bounty",
+)
 
 
 @dataclass
@@ -41,6 +50,7 @@ class Candidate:
     amount: float | None
     currency_hint: str | None
     body: str
+    labels: list[str]
     score: float = 0.0
 
 
@@ -75,6 +85,18 @@ def parse_amount(text: str) -> tuple[float | None, str | None]:
 def score(c: Candidate) -> float:
     # First £1 experiment: small-but-real, low-competition tasks rank highly.
     s = 100.0
+    text = (c.title + "\n" + c.body).lower()
+    labels = " ".join(c.labels).lower()
+
+    if any(k in text for k in FALSE_BOUNTY_TERMS):
+        return -999.0
+
+    # A real bounty label is much stronger evidence than the word "bounty" in prose.
+    if "bounty" in labels or "💎" in labels or "reward" in labels:
+        s += 30
+    else:
+        s -= 35
+
     s -= min(c.comments * 6.0, 60.0)
     if c.amount is None:
         s -= 25
@@ -85,7 +107,7 @@ def score(c: Candidate) -> float:
             s += 10
         elif c.amount > 1000:
             s -= 10
-    text = (c.title + "\n" + c.body).lower()
+
     if any(k in text for k in ("good first issue", "docs", "documentation", "test", "typo", "ci", "lint")):
         s += 12
     if any(k in text for k in ("security", "exploit", "pentest", "kyc", "region restricted")):
@@ -110,6 +132,7 @@ def main() -> int:
             repo_url = item.get("repository_url", "")
             repo = repo_url.rsplit("/", 2)[-2] + "/" + repo_url.rsplit("/", 1)[-1] if repo_url else "unknown"
             body = item.get("body") or ""
+            labels = [str(x.get("name", "")) for x in item.get("labels", []) if isinstance(x, dict)]
             amount, cur = parse_amount((item.get("title") or "") + "\n" + body)
             c = Candidate(
                 repo=repo,
@@ -121,9 +144,11 @@ def main() -> int:
                 amount=amount,
                 currency_hint=cur,
                 body=body[:3000],
+                labels=labels,
             )
             c.score = score(c)
-            seen[c.url] = c
+            if c.score > 0:
+                seen[c.url] = c
 
     ranked = sorted(seen.values(), key=lambda c: (c.score, -(c.amount or 0)), reverse=True)
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
@@ -148,13 +173,16 @@ def main() -> int:
         title = c.title.replace("|", "\\|")
         lines.append(f"| {c.score:.1f} | {reward} | {c.comments} comments | `{c.repo}` | [{title}]({c.url}) |")
 
+    if not ranked:
+        lines.append("| — | — | — | — | No credible candidate found in this scan |")
+
     lines += [
         "",
         "## Agent decision rule",
         "",
-        "Before coding, manually verify the top candidate has a real funded/rewarded bounty and prior payout evidence. Do not work from the dollar amount in a title alone.",
+        "Before coding, verify the top candidate has a real funded/rewarded bounty and prior payout evidence. Do not work from the dollar amount in a title alone.",
         "",
-        "The scanner is intentionally conservative: it optimizes for *probability of first payment*, not headline bounty size.",
+        "The scanner intentionally optimizes for *probability of first payment*, not headline bounty size.",
         "",
     ]
     REPORT.write_text("\n".join(lines), encoding="utf-8")
@@ -170,6 +198,8 @@ def main() -> int:
             "best_amount": best.amount,
             "best_currency": best.currency_hint,
         }))
+    else:
+        print(json.dumps({"best_url": None}))
     return 0
 
 
