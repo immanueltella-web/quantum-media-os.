@@ -1,0 +1,73 @@
+name: XOOL Penniless Agent
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  hunt:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Scan paid coding opportunities
+        id: scan
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 penniless-agent/scan_bounties.py | tee /tmp/penniless.json
+
+      - name: Commit updated bounty report
+        run: |
+          if git diff --quiet -- penniless-agent/bounty-report.md; then
+            echo "No report changes"
+            exit 0
+          fi
+          git config user.name "xool-penniless-agent[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add penniless-agent/bounty-report.md
+          git commit -m "chore: update Penniless Agent bounty report"
+          git push
+
+      - name: Surface the best current candidate
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            if (!fs.existsSync('/tmp/penniless.json')) return;
+            const raw = fs.readFileSync('/tmp/penniless.json', 'utf8').trim().split('\n').pop();
+            if (!raw) return;
+            let best;
+            try { best = JSON.parse(raw); } catch { return; }
+            if (!best.best_url) return;
+
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const title = '💷 XOOL Penniless Agent — first £1 target';
+            const body = [
+              'The autonomous bounty hunter has found a current candidate.',
+              '',
+              `**Target:** ${best.best_title}`,
+              `**Repository:** ${best.best_repo}`,
+              `**Reward detected:** ${best.best_amount ?? 'unknown'} ${best.best_currency ?? ''}`,
+              `**Competition signal:** ${best.best_comments} comments`,
+              `**Scanner score:** ${best.best_score}`,
+              `**Issue:** ${best.best_url}`,
+              '',
+              'Before any work starts, verify the bounty is genuinely funded and has a credible payout path. The goal is the first real £1 received, not the biggest advertised bounty.'
+            ].join('\n');
+
+            const { data } = await github.rest.issues.listForRepo({ owner, repo, state: 'open', per_page: 100 });
+            const existing = data.find(i => i.title === title);
+            if (existing) {
+              await github.rest.issues.update({ owner, repo, issue_number: existing.number, body });
+            } else {
+              await github.rest.issues.create({ owner, repo, title, body });
+            }
