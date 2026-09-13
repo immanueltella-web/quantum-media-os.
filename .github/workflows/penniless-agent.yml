@@ -29,7 +29,11 @@ jobs:
 
       - name: Commit updated bounty report
         run: |
-          if git diff --quiet -- penniless-agent/bounty-report.md; then
+          if [ ! -f penniless-agent/bounty-report.md ]; then
+            echo "No report generated"
+            exit 0
+          fi
+          if git diff --quiet -- penniless-agent/bounty-report.md && git ls-files --error-unmatch penniless-agent/bounty-report.md >/dev/null 2>&1; then
             echo "No report changes"
             exit 0
           fi
@@ -50,11 +54,25 @@ jobs:
             if (!raw) return;
             let best;
             try { best = JSON.parse(raw); } catch { return; }
-            if (!best.best_url) return;
 
             const owner = context.repo.owner;
             const repo = context.repo.repo;
             const title = '💷 XOOL Penniless Agent — first £1 target';
+            const { data } = await github.rest.issues.listForRepo({ owner, repo, state: 'open', per_page: 100 });
+            const existing = data.find(i => i.title === title);
+
+            if (!best.best_url) {
+              if (existing) {
+                await github.rest.issues.update({
+                  owner,
+                  repo,
+                  issue_number: existing.number,
+                  body: 'No credible bounty candidate passed the current scan. The agent will keep hunting hourly.'
+                });
+              }
+              return;
+            }
+
             const body = [
               'The autonomous bounty hunter has found a current candidate.',
               '',
@@ -68,8 +86,6 @@ jobs:
               'Before any work starts, verify the bounty is genuinely funded and has a credible payout path. The goal is the first real £1 received, not the biggest advertised bounty.'
             ].join('\n');
 
-            const { data } = await github.rest.issues.listForRepo({ owner, repo, state: 'open', per_page: 100 });
-            const existing = data.find(i => i.title === title);
             if (existing) {
               await github.rest.issues.update({ owner, repo, issue_number: existing.number, body });
             } else {
