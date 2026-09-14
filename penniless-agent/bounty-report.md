@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-09-14 12:47 UTC**
+Updated: **2026-09-14 18:36 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -8,26 +8,26 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 
 | Score | Reward | Competition | Repository | Issue |
 |---:|---:|---:|---|---|
-| 182.0 | $1 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 3 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/88) |
-| 182.0 | £1 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 14 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1388) |
-| 182.0 | $25 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 8 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/86) |
-| 182.0 | $50 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 8 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/87) |
 | 172.0 | $83 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 2 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/89) |
-| 170.0 | £1 | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 7 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1122) |
-| 170.0 | £1 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 6 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1052) |
-| 162.0 | $0 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 9 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1389) |
 | 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty][$0][Lessons] 把 intake #1635（LLM 成本遥测少计：模型归因错 + 重试未记账）转成课程](https://github.com/Ikalus1988/MisakaNet/issues/1672) |
 | 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty][$0][Lessons] 把 intake #1618 + #1619（写成功但数据静默丢失）转成课程](https://github.com/Ikalus1988/MisakaNet/issues/1666) |
 | 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty][$0][Lessons] 把 intake #1472 + #1473（Vertex/Gemini 模型 ID 命名）转成课程](https://github.com/Ikalus1988/MisakaNet/issues/1665) |
-| 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty][$0][Lessons] 把 intake #1574（LLM 代替用户发言 / god-moding）转成课程](https://github.com/Ikalus1988/MisakaNet/issues/1650) |
-| 144.0 | $0 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 20 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1387) |
-| 144.0 | $500 | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 3 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1124) |
-| 144.0 | $500 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 2 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1054) |
-| 142.0 | $7500 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 9 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1390) |
+| 142.0 | $35000 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 5 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/90) |
 | 140.0 | $0 | 2 comments | `Ikalus1988/MisakaNet` | [[Bounty][$0][Ops] 重建 lessons/index.md 并加 --check 门禁（当前 181 条里 25 条悬空、136 条标题不符）](https://github.com/Ikalus1988/MisakaNet/issues/1661) |
 | 140.0 | $0 | 2 comments | `Ikalus1988/MisakaNet` | [[Bounty][$0][Lessons] 把 intake #1643（NPC 外派 + 间接提及 → 说话人/地点错位）转成课程](https://github.com/Ikalus1988/MisakaNet/issues/1655) |
 | 140.0 | $0 | 2 comments | `Ikalus1988/MisakaNet` | [[Bounty][$0][Search] error-signature 索引（#1562）：先方案后实现](https://github.com/Ikalus1988/MisakaNet/issues/1654) |
-| 140.0 | $0 | 2 comments | `Ikalus1988/MisakaNet` | [[Bounty][$0][Lessons] 把 intake #1555（nano-gpt.com SSE 流式调用失败）转成课程](https://github.com/Ikalus1988/MisakaNet/issues/1651) |
+| 140.0 | $0 | 2 comments | `Ikalus1988/MisakaNet` | [[Bounty][$0][Lessons] 把 intake #1574（LLM 代替用户发言 / god-moding）转成课程](https://github.com/Ikalus1988/MisakaNet/issues/1650) |
+| 137.0 | unknown | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 4 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1126) |
+| 137.0 | unknown | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 3 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1056) |
+| 134.0 | $0 | 3 comments | `Ikalus1988/MisakaNet` | [[Bounty][$0][Search] 分诊辅助：把 intake 标题规范化为检索 query 并判定覆盖率](https://github.com/Ikalus1988/MisakaNet/issues/1673) |
+| 132.0 | $50 | 5 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty: $50] slugify() leaves double and trailing hyphens](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1518) |
+| 121.0 | unknown | 1 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-14T13:54](https://github.com/relayhop/sn-monetization-runtime/issues/1115) |
+| 121.0 | unknown | 1 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-14T12:34](https://github.com/relayhop/sn-monetization-runtime/issues/1113) |
+| 121.0 | unknown | 1 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-14T06:07](https://github.com/relayhop/sn-monetization-runtime/issues/1105) |
+| 121.0 | unknown | 1 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-14T00:58](https://github.com/relayhop/sn-monetization-runtime/issues/1103) |
+| 121.0 | unknown | 1 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-13T22:21](https://github.com/relayhop/sn-monetization-runtime/issues/1101) |
+| 119.0 | unknown | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 5 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1125) |
+| 119.0 | unknown | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 4 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1055) |
 
 ## Agent decision rule
 
