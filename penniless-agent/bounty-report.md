@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-09-14 04:39 UTC**
+Updated: **2026-09-14 06:14 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -16,6 +16,7 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 170.0 | £1 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 6 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1052) |
 | 162.0 | $0 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 9 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1389) |
 | 150.0 | $0 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 14 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/85) |
+| 150.0 | $0 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 9 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1386) |
 | 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty][$0][Lessons] 把 intake #1635（LLM 成本遥测少计：模型归因错 + 重试未记账）转成课程](https://github.com/Ikalus1988/MisakaNet/issues/1672) |
 | 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty][$0][Lessons] 把 intake #1618 + #1619（写成功但数据静默丢失）转成课程](https://github.com/Ikalus1988/MisakaNet/issues/1666) |
 | 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty][$0][Lessons] 把 intake #1472 + #1473（Vertex/Gemini 模型 ID 命名）转成课程](https://github.com/Ikalus1988/MisakaNet/issues/1665) |
@@ -27,7 +28,6 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 144.0 | $500 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 2 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1054) |
 | 142.0 | $7500 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 9 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1390) |
 | 140.0 | $0 | 2 comments | `Ikalus1988/MisakaNet` | [[Bounty][$0][Search] error-signature 索引（#1562）：先方案后实现](https://github.com/Ikalus1988/MisakaNet/issues/1654) |
-| 140.0 | $0 | 2 comments | `Ikalus1988/MisakaNet` | [[Bounty][$0][Lessons] 把 intake #1553（alembic upgrade 失败）转成课程](https://github.com/Ikalus1988/MisakaNet/issues/1652) |
 
 ## Agent decision rule
 
