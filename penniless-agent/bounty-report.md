@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-09-20 01:05 UTC**
+Updated: **2026-09-20 06:12 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -8,12 +8,16 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 
 | Score | Reward | Competition | Repository | Issue |
 |---:|---:|---:|---|---|
+| 182.0 | $50 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 2 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/120) |
 | 150.0 | $100 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1573) |
 | 144.0 | $100 | 3 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] $100 BOUNTY FOR IMPLEMENTING A FOREVER IF BLOCK INTO OMNIBLOCKS](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1559) |
 | 137.0 | unknown | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 10 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1159) |
 | 137.0 | unknown | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 9 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1090) |
+| 132.0 | $400 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 9 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1428) |
 | 128.0 | $100 | 4 comments | `OmniBlocks/bountyfarmer` | [$100 DOLLAR BOUNTY FOR IMPLEMENTING A HELLO WORLD INTO THIS REPO](https://github.com/OmniBlocks/bountyfarmer/issues/5) |
 | 128.0 | $500 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Reverse bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1558) |
+| 125.0 | unknown | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 6 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1160) |
+| 125.0 | unknown | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 6 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1091) |
 | 121.0 | unknown | 1 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-13T22:21](https://github.com/relayhop/sn-monetization-runtime/issues/1101) |
 | 120.0 | $1500 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $1,500] SFPLOADMACRO produces wrong results under coverage instrumentati](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1596) |
 | 120.0 | $1500 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [BOUNTY: $1,500] BOUNTY FOR IMPLEMENTING A DJANGO HELLO WORLD INTO THIS REPO](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1584) |
@@ -24,10 +28,6 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 114.0 | $3000 | 3 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-stride corrupt](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1589) |
 | 114.0 | $9.82815e+06 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] $9828150 BOUNTY FOR IMPLEMENTING A SASS MODE INTO OMNIBLOCKS](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1562) |
 | 114.0 | $1e+08 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] bitcoin bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1570) |
-| 114.0 | $2.39398e+17 | 3 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] $239398281948585883* bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1593) |
-| 109.0 | unknown | 1 comments | `OmniBlocks/Boxy-gh` | [Bounty:give boxy its own bitcoin wallet](https://github.com/OmniBlocks/Boxy-gh/issues/147) |
-| 108.0 | $2 | 9 comments | `ClankerNation/OpenAgents` | [[ Bounty $2k ] [ API ] Fix payments.py escrow release has no expiry auto-refund job — mainnet prep](https://github.com/ClankerNation/OpenAgents/issues/197) |
-| 108.0 | $4 | 9 comments | `ClankerNation/OpenAgents` | [[ Bounty $4k ] [ Solidity ] Add batch operations to AgentRegistry for gas efficiency — backwards compat](https://github.com/ClankerNation/OpenAgents/issues/194) |
 
 ## Agent decision rule
 
