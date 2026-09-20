@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-09-19 23:00 UTC**
+Updated: **2026-09-20 01:05 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -10,6 +10,8 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 |---:|---:|---:|---|---|
 | 150.0 | $100 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1573) |
 | 144.0 | $100 | 3 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] $100 BOUNTY FOR IMPLEMENTING A FOREVER IF BLOCK INTO OMNIBLOCKS](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1559) |
+| 137.0 | unknown | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 10 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1159) |
+| 137.0 | unknown | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 9 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1090) |
 | 128.0 | $100 | 4 comments | `OmniBlocks/bountyfarmer` | [$100 DOLLAR BOUNTY FOR IMPLEMENTING A HELLO WORLD INTO THIS REPO](https://github.com/OmniBlocks/bountyfarmer/issues/5) |
 | 128.0 | $500 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Reverse bounty](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1558) |
 | 121.0 | unknown | 1 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-13T22:21](https://github.com/relayhop/sn-monetization-runtime/issues/1101) |
@@ -26,8 +28,6 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 109.0 | unknown | 1 comments | `OmniBlocks/Boxy-gh` | [Bounty:give boxy its own bitcoin wallet](https://github.com/OmniBlocks/Boxy-gh/issues/147) |
 | 108.0 | $2 | 9 comments | `ClankerNation/OpenAgents` | [[ Bounty $2k ] [ API ] Fix payments.py escrow release has no expiry auto-refund job — mainnet prep](https://github.com/ClankerNation/OpenAgents/issues/197) |
 | 108.0 | $4 | 9 comments | `ClankerNation/OpenAgents` | [[ Bounty $4k ] [ Solidity ] Add batch operations to AgentRegistry for gas efficiency — backwards compat](https://github.com/ClankerNation/OpenAgents/issues/194) |
-| 108.0 | $4 | 9 comments | `ClankerNation/OpenAgents` | [[ Bounty $4k ] [ Solidity ] Fix InterestRateModel doesn't emit events on parameter changes — deployment blocker](https://github.com/ClankerNation/OpenAgents/issues/193) |
-| 108.0 | $9.74049e+06 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] $9740486 BOUNTY FOR IMPLEMENTING A LINUX EMULATOR INTO OMNIBLOCKS](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1561) |
 
 ## Agent decision rule
 
