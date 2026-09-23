@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-09-23 16:54 UTC**
+Updated: **2026-09-23 23:39 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -8,26 +8,26 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 
 | Score | Reward | Competition | Repository | Issue |
 |---:|---:|---:|---|---|
-| 137.0 | unknown | 0 comments | `ditto-assistant/ditto-subnet` | [Epic: 5% maintenance treasury and miner bounty operations](https://github.com/ditto-assistant/ditto-subnet/issues/2054) |
-| 137.0 | unknown | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 8 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1179) |
+| 160.0 | $99 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty] Fix one deterministic agent-card discovery regression](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1634) |
+| 142.0 | $68098 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty] Flower-shaped rainwater collector for a tinaco](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1633) |
+| 137.0 | unknown | 0 comments | `abdulsalam-create/bounty-watch` | [bounty-watch 2026-09-23: 0 new, 0 resumed, 6 watchlist changes](https://github.com/abdulsalam-create/bounty-watch/issues/32) |
+| 137.0 | unknown | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 2 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/150) |
+| 137.0 | unknown | 0 comments | `abdulsalam-create/bounty-watch` | [bounty-watch 2026-09-23: 0 new, 0 resumed, 5 watchlist changes](https://github.com/abdulsalam-create/bounty-watch/issues/31) |
+| 125.0 | unknown | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 12 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1181) |
+| 125.0 | unknown | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 13 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1117) |
 | 125.0 | unknown | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 3 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1455) |
-| 121.0 | unknown | 1 comments | `NSPG13/agent-bounties` | [[Bounty] Flower-shaped rainwater collector for a tinaco](https://github.com/NSPG13/agent-bounties/issues/1505) |
-| 120.0 | $1500 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $1,500] SFPLOADMACRO produces wrong results under coverage instrumentati](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1596) |
-| 120.0 | $2.39398e+17 | 2 comments | `OmniBlocks/bountyfarmer` | [$239398281948585883* bounty](https://github.com/OmniBlocks/bountyfarmer/issues/31) |
-| 119.0 | unknown | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 8 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1115) |
-| 115.0 | unknown | 2 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-20T18:42](https://github.com/relayhop/sn-monetization-runtime/issues/1128) |
-| 115.0 | unknown | 2 comments | `ditto-assistant/ditto-subnet` | [Design hotkey-signed bounty claiming, reservation, and contributor identity](https://github.com/ditto-assistant/ditto-subnet/issues/2045) |
-| 115.0 | unknown | 2 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-20T11:15](https://github.com/relayhop/sn-monetization-runtime/issues/1124) |
-| 114.0 | $3000 | 3 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-stride corrupt](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1589) |
-| 109.0 | unknown | 1 comments | `NSPG13/agent-bounties` | [[Bounty] Fix one deterministic agent-card discovery regression](https://github.com/NSPG13/agent-bounties/issues/1502) |
-| 109.0 | unknown | 1 comments | `NSPG13/agent-bounties` | [[Bounty] Fix one deterministic RPC failover regression](https://github.com/NSPG13/agent-bounties/issues/1500) |
-| 109.0 | unknown | 1 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-23T10:00](https://github.com/relayhop/sn-monetization-runtime/issues/1188) |
-| 109.0 | unknown | 1 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-23T05:52](https://github.com/relayhop/sn-monetization-runtime/issues/1184) |
-| 109.0 | unknown | 1 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-23T05:13](https://github.com/relayhop/sn-monetization-runtime/issues/1183) |
-| 109.0 | unknown | 1 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-23T00:35](https://github.com/relayhop/sn-monetization-runtime/issues/1181) |
-| 109.0 | unknown | 1 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-22T22:11](https://github.com/relayhop/sn-monetization-runtime/issues/1178) |
-| 109.0 | unknown | 1 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-22T21:59](https://github.com/relayhop/sn-monetization-runtime/issues/1177) |
-| 109.0 | unknown | 1 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-22T19:03](https://github.com/relayhop/sn-monetization-runtime/issues/1175) |
+| 121.0 | unknown | 1 comments | `OphirPay/OphirPay` | [Add OpenTelemetry tracing so a payment can be followed across contract, API and database](https://github.com/OphirPay/OphirPay/issues/815) |
+| 121.0 | unknown | 1 comments | `OphirPay/OphirPay` | [Harden the price feed with caching, rate-limit handling and a staleness policy](https://github.com/OphirPay/OphirPay/issues/814) |
+| 121.0 | unknown | 1 comments | `OphirPay/OphirPay` | [Add SEP-7 URI handoff so mobile wallets can complete a payment](https://github.com/OphirPay/OphirPay/issues/812) |
+| 121.0 | unknown | 1 comments | `OphirPay/OphirPay` | [Handle payment request expiration and reminders](https://github.com/OphirPay/OphirPay/issues/810) |
+| 121.0 | unknown | 1 comments | `OphirPay/OphirPay` | [Add a trustline setup flow for non-native assets](https://github.com/OphirPay/OphirPay/issues/809) |
+| 121.0 | unknown | 1 comments | `OphirPay/OphirPay` | [Surface refund reason-code analytics in the UI](https://github.com/OphirPay/OphirPay/issues/807) |
+| 121.0 | unknown | 1 comments | `OphirPay/OphirPay` | [Add an on-chain idempotency key to record_payment](https://github.com/OphirPay/OphirPay/issues/804) |
+| 121.0 | unknown | 1 comments | `OphirPay/OphirPay` | [Make timelocked actions actually dispatch to the functions they claim to protect](https://github.com/OphirPay/OphirPay/issues/803) |
+| 121.0 | unknown | 1 comments | `OphirPay/OphirPay` | [Implement transactional email instead of a placeholder that silently returns false](https://github.com/OphirPay/OphirPay/issues/800) |
+| 121.0 | unknown | 1 comments | `OphirPay/OphirPay` | [Build a payment stream UI with vesting progress](https://github.com/OphirPay/OphirPay/issues/799) |
+| 121.0 | unknown | 1 comments | `OphirPay/OphirPay` | [Build an escrow management UI, since the feature is currently API-only](https://github.com/OphirPay/OphirPay/issues/798) |
+| 121.0 | unknown | 1 comments | `OphirPay/OphirPay` | [Implement the Ledger hardware wallet connector for real](https://github.com/OphirPay/OphirPay/issues/797) |
 
 ## Agent decision rule
 
