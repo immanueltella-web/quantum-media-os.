@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-09-25 22:17 UTC**
+Updated: **2026-09-26 01:31 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -8,15 +8,16 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 
 | Score | Reward | Competition | Repository | Issue |
 |---:|---:|---:|---|---|
+| 164.0 | $50 | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 12 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1192) |
+| 164.0 | $50 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1135) |
 | 152.0 | $50 | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 13 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1191) |
 | 152.0 | $50 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 13 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1134) |
 | 144.0 | $99 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty] Fix one deterministic agent-card discovery regression](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1634) |
 | 140.0 | $0 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Record the real network fee in the ledger, not only the capped estimate](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1660) |
 | 137.0 | unknown | 0 comments | `abdulsalam-create/bounty-watch` | [bounty-watch 2026-09-25: 0 new, 0 resumed, 5 watchlist changes](https://github.com/abdulsalam-create/bounty-watch/issues/43) |
 | 132.0 | $1 | 5 comments | `Grainlify/grainlify-bounty-agent` | [Expose inference cost metrics on the public ledger endpoint](https://github.com/Grainlify/grainlify-bounty-agent/issues/2) |
+| 125.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-26T01:27](https://github.com/relayhop/sn-monetization-runtime/issues/1195) |
 | 125.0 | unknown | 0 comments | `abdulsalam-create/bounty-watch` | [bounty-watch 2026-09-25: 0 new, 0 resumed, 2 watchlist changes](https://github.com/abdulsalam-create/bounty-watch/issues/42) |
-| 125.0 | unknown | 0 comments | `abdulsalam-create/bounty-watch` | [Scope digest 2026-09-25: 4 changes across 3 bounty programs](https://github.com/abdulsalam-create/bounty-watch/issues/40) |
-| 125.0 | unknown | 0 comments | `abdulsalam-create/bounty-watch` | [bounty-watch 2026-09-25: 0 new, 0 resumed, 5 watchlist changes](https://github.com/abdulsalam-create/bounty-watch/issues/39) |
 | 121.0 | unknown | 1 comments | `OphirPay/OphirPay` | [Add OpenTelemetry tracing so a payment can be followed across contract, API and database](https://github.com/OphirPay/OphirPay/issues/815) |
 | 121.0 | unknown | 1 comments | `OphirPay/OphirPay` | [Handle payment request expiration and reminders](https://github.com/OphirPay/OphirPay/issues/810) |
 | 121.0 | unknown | 1 comments | `OphirPay/OphirPay` | [Surface refund reason-code analytics in the UI](https://github.com/OphirPay/OphirPay/issues/807) |
@@ -27,7 +28,6 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 117.0 | $1 | 0 comments | `kodaksax/Bounty-production` | [Internal test bounty 2a39dbf2 is publicly listed as open with an accepted hunter; external applicants told 'no response'](https://github.com/kodaksax/Bounty-production/issues/864) |
 | 115.0 | unknown | 2 comments | `OphirPay/OphirPay` | [Add SEP-7 URI handoff so mobile wallets can complete a payment](https://github.com/OphirPay/OphirPay/issues/812) |
 | 115.0 | unknown | 2 comments | `OphirPay/OphirPay` | [Add API key rotation alongside revocation](https://github.com/OphirPay/OphirPay/issues/805) |
-| 115.0 | unknown | 2 comments | `OphirPay/OphirPay` | [Add a keyboard shortcut cheat sheet using the existing Kbd primitives](https://github.com/OphirPay/OphirPay/issues/790) |
 
 ## Agent decision rule
 
