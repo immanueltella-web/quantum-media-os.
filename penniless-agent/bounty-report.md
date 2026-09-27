@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-09-27 01:24 UTC**
+Updated: **2026-09-27 08:05 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -23,11 +23,11 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 125.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-26T17:05](https://github.com/relayhop/sn-monetization-runtime/issues/1203) |
 | 125.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-26T12:59](https://github.com/relayhop/sn-monetization-runtime/issues/1200) |
 | 125.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-26T11:16](https://github.com/relayhop/sn-monetization-runtime/issues/1199) |
+| 125.0 | unknown | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 10 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1487) |
 | 125.0 | unknown | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 6 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1485) |
-| 118.0 | $0 | 4 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer 2 linked question(s) as a lesson](https://github.com/Ikalus1988/MisakaNet/issues/2283) |
-| 109.0 | unknown | 3 comments | `OphirPay/OphirPay` | [Handle payment request expiration and reminders](https://github.com/OphirPay/OphirPay/issues/810) |
-| 109.0 | unknown | 3 comments | `OphirPay/OphirPay` | [Make timelocked actions actually dispatch to the functions they claim to protect](https://github.com/OphirPay/OphirPay/issues/803) |
-| 109.0 | unknown | 3 comments | `OphirPay/OphirPay` | [Build a payment stream UI with vesting progress](https://github.com/OphirPay/OphirPay/issues/799) |
+| 125.0 | unknown | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1196) |
+| 125.0 | unknown | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1141) |
+| 117.0 | $1 | 0 comments | `Grainlify/grainlify-agent-sandbox` | [[TEST BOUNTY] README and GREETING still say devnet, but bounties here now pay real USDC](https://github.com/Grainlify/grainlify-agent-sandbox/issues/3) |
 
 ## Agent decision rule
 
