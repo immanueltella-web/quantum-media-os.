@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-09-30 19:16 UTC**
+Updated: **2026-09-30 23:01 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -11,9 +11,10 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 166.0 | $1.5 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $1.5k] Improve BF16 reciprocal rounding on Wormhole](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1698) |
 | 166.0 | $1.5 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $1.5k] Improve div_no_nan accuracy to 1 ULP](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1697) |
 | 162.0 | $750 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $750] Fix fused scale-mask softmax tile-padding leakage at non-32 widths](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1703) |
-| 162.0 | $750 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 4 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/197) |
 | 160.0 | $1.5 | 2 comments | `tenstorrent/tt-metal` | [[Bounty $1.5k] Improve div_no_nan accuracy to 1 ULP](https://github.com/tenstorrent/tt-metal/issues/58228) |
+| 160.0 | $99 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty] Fix one deterministic agent-card discovery regression](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1715) |
 | 154.0 | $1.5 | 3 comments | `tenstorrent/tt-metal` | [[Bounty $1.5k] Improve BF16 reciprocal rounding on Wormhole](https://github.com/tenstorrent/tt-metal/issues/58227) |
+| 152.0 | $50 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 13 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1510) |
 | 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer 2 linked question(s) as a lesson](https://github.com/Ikalus1988/MisakaNet/issues/2525) |
 | 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer 2 linked question(s) as a lesson](https://github.com/Ikalus1988/MisakaNet/issues/2524) |
 | 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer 2 linked question(s) as a lesson](https://github.com/Ikalus1988/MisakaNet/issues/2523) |
@@ -26,8 +27,7 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-27T18:17](https://github.com/relayhop/sn-monetization-runtime/issues/1209) |
 | 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-27T13:52](https://github.com/relayhop/sn-monetization-runtime/issues/1208) |
 | 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-09-27T11:55](https://github.com/relayhop/sn-monetization-runtime/issues/1207) |
-| 137.0 | unknown | 0 comments | `laclance/BountyScout` | [🎯 Bounty Alert: 1 Clean Paid Opportunity found](https://github.com/laclance/BountyScout/issues/5) |
-| 137.0 | unknown | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 3 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/200) |
+| 137.0 | unknown | 0 comments | `abdulsalam-create/bounty-watch` | [bounty-watch 2026-09-30: 1 new, 1 resumed, 8 watchlist changes](https://github.com/abdulsalam-create/bounty-watch/issues/62) |
 
 ## Agent decision rule
 
