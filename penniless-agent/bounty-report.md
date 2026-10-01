@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-01 16:24 UTC**
+Updated: **2026-10-01 21:48 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -10,11 +10,9 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 |---:|---:|---:|---|---|
 | 182.0 | $50 | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 18 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1218) |
 | 182.0 | $50 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 17 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1171) |
-| 182.0 | $50 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 3 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/203) |
-| 152.0 | $50 | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 9 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1216) |
-| 152.0 | $50 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 8 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1168) |
-| 152.0 | $50 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 13 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1510) |
-| 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty] Test the 2.40.0 browser half in your own DSH host (6 seats, screenshot + probe evidence)](https://github.com/Ikalus1988/MisakaNet/issues/2593) |
+| 140.0 | $0 | 2 comments | `Ikalus1988/MisakaNet` | [[Bounty] Test the 2.40.0 browser half in your own DSH host (6 seats, screenshot + probe evidence)](https://github.com/Ikalus1988/MisakaNet/issues/2593) |
+| 137.0 | unknown | 0 comments | `goobinss/pearOS` | [Improve ratio chart accessibility](https://github.com/goobinss/pearOS/issues/7) |
+| 137.0 | unknown | 0 comments | `goobinss/pearOS` | [Improve mobile layout and keyboard access](https://github.com/goobinss/pearOS/issues/5) |
 | 137.0 | unknown | 0 comments | `AstralDeep/LETS` | [Replace client deadline performance assertions with deterministic contract tests](https://github.com/AstralDeep/LETS/issues/73) |
 | 137.0 | unknown | 0 comments | `AstralDeep/LETS` | [Validate successful SDK response envelopes before returning typed mappings](https://github.com/AstralDeep/LETS/issues/70) |
 | 137.0 | unknown | 0 comments | `AstralDeep/LETS` | [Include serialized-client admission wait in the advertised total deadline](https://github.com/AstralDeep/LETS/issues/68) |
@@ -26,8 +24,10 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPrimitives` | [Keep non-finite numeric values out of primitive wire JSON](https://github.com/AstralDeep/AstralPrimitives/issues/8) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPrimitives` | [Reject child dictionaries without a concrete primitive type](https://github.com/AstralDeep/AstralPrimitives/issues/6) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPrimitives` | [Reject mismatched type discriminators in subclass from_dict calls](https://github.com/AstralDeep/AstralPrimitives/issues/5) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Qualify a standalone external-host example using only Plane's public facade](https://github.com/AstralDeep/AstralPlane/issues/22) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Add an explicit async shutdown drain contract for embedded protocol servers](https://github.com/AstralDeep/AstralPlane/issues/21) |
+| 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Reject fractional and non-finite revision fences without lossy int coercion](https://github.com/AstralDeep/AstralPlane/issues/18) |
+| 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Reject canonical-JSON key collisions instead of silently rewriting durable payloads](https://github.com/AstralDeep/AstralPlane/issues/17) |
+| 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Bound and validate public PlaneError diagnostic metadata](https://github.com/AstralDeep/AstralPlane/issues/16) |
 
 ## Agent decision rule
 
