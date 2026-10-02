@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-02 15:45 UTC**
+Updated: **2026-10-02 20:41 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -10,13 +10,14 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 |---:|---:|---:|---|---|
 | 182.0 | $50 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 8 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1520) |
 | 164.0 | $50 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 15 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1518) |
+| 146.0 | $1000 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1728) |
+| 140.0 | $1000 | 2 comments | `tenstorrent/tt-metal` | [[Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow](https://github.com/tenstorrent/tt-metal/issues/58986) |
 | 137.0 | unknown | 0 comments | `AstralDeep/LETS` | [Replace client deadline performance assertions with deterministic contract tests](https://github.com/AstralDeep/LETS/issues/73) |
 | 137.0 | unknown | 0 comments | `AstralDeep/LETS` | [Validate successful SDK response envelopes before returning typed mappings](https://github.com/AstralDeep/LETS/issues/70) |
 | 137.0 | unknown | 0 comments | `AstralDeep/LETS` | [Include serialized-client admission wait in the advertised total deadline](https://github.com/AstralDeep/LETS/issues/68) |
 | 137.0 | unknown | 0 comments | `AstralDeep/LETS` | [Preserve ownership of injected HTTP clients when total deadlines expire](https://github.com/AstralDeep/LETS/issues/67) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPrimitives` | [Run a complete public-vocabulary serialization and round-trip contract matrix](https://github.com/AstralDeep/AstralPrimitives/issues/12) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPrimitives` | [Expose a useful machine-readable schema for serialized primitive artifacts](https://github.com/AstralDeep/AstralPrimitives/issues/11) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralPrimitives` | [Define and enforce JSON-native values in arbitrary primitive payloads](https://github.com/AstralDeep/AstralPrimitives/issues/9) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPrimitives` | [Keep non-finite numeric values out of primitive wire JSON](https://github.com/AstralDeep/AstralPrimitives/issues/8) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPrimitives` | [Reject child dictionaries without a concrete primitive type](https://github.com/AstralDeep/AstralPrimitives/issues/6) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPrimitives` | [Reject mismatched type discriminators in subclass from_dict calls](https://github.com/AstralDeep/AstralPrimitives/issues/5) |
@@ -26,7 +27,6 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Bound and validate public PlaneError diagnostic metadata](https://github.com/AstralDeep/AstralPlane/issues/16) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Preserve recoverable shutdown state when driver closeall fails](https://github.com/AstralDeep/AstralPlane/issues/15) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Reject awaitable callbacks before an async Plane transaction reports success](https://github.com/AstralDeep/AstralPlane/issues/14) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralProjection` | [Preserve balanced parentheses in rendered Markdown link destinations](https://github.com/AstralDeep/AstralProjection/issues/37) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralProjection` | [Include form submissions in ROTE read-only and action-budget adaptation](https://github.com/AstralDeep/AstralProjection/issues/36) |
 
 ## Agent decision rule
