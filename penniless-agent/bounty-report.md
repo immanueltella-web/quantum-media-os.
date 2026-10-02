@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-01 21:48 UTC**
+Updated: **2026-10-02 01:40 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -8,16 +8,12 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 
 | Score | Reward | Competition | Repository | Issue |
 |---:|---:|---:|---|---|
-| 182.0 | $50 | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 18 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1218) |
-| 182.0 | $50 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 17 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1171) |
+| 162.0 | $430 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 4 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/208) |
 | 140.0 | $0 | 2 comments | `Ikalus1988/MisakaNet` | [[Bounty] Test the 2.40.0 browser half in your own DSH host (6 seats, screenshot + probe evidence)](https://github.com/Ikalus1988/MisakaNet/issues/2593) |
-| 137.0 | unknown | 0 comments | `goobinss/pearOS` | [Improve ratio chart accessibility](https://github.com/goobinss/pearOS/issues/7) |
-| 137.0 | unknown | 0 comments | `goobinss/pearOS` | [Improve mobile layout and keyboard access](https://github.com/goobinss/pearOS/issues/5) |
 | 137.0 | unknown | 0 comments | `AstralDeep/LETS` | [Replace client deadline performance assertions with deterministic contract tests](https://github.com/AstralDeep/LETS/issues/73) |
 | 137.0 | unknown | 0 comments | `AstralDeep/LETS` | [Validate successful SDK response envelopes before returning typed mappings](https://github.com/AstralDeep/LETS/issues/70) |
 | 137.0 | unknown | 0 comments | `AstralDeep/LETS` | [Include serialized-client admission wait in the advertised total deadline](https://github.com/AstralDeep/LETS/issues/68) |
 | 137.0 | unknown | 0 comments | `AstralDeep/LETS` | [Preserve ownership of injected HTTP clients when total deadlines expire](https://github.com/AstralDeep/LETS/issues/67) |
-| 137.0 | unknown | 0 comments | `AstralDeep/LETS` | [Validate finite, correctly typed SDK deadline and retry limits](https://github.com/AstralDeep/LETS/issues/66) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPrimitives` | [Run a complete public-vocabulary serialization and round-trip contract matrix](https://github.com/AstralDeep/AstralPrimitives/issues/12) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPrimitives` | [Expose a useful machine-readable schema for serialized primitive artifacts](https://github.com/AstralDeep/AstralPrimitives/issues/11) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPrimitives` | [Define and enforce JSON-native values in arbitrary primitive payloads](https://github.com/AstralDeep/AstralPrimitives/issues/9) |
@@ -28,6 +24,10 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Reject fractional and non-finite revision fences without lossy int coercion](https://github.com/AstralDeep/AstralPlane/issues/18) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Reject canonical-JSON key collisions instead of silently rewriting durable payloads](https://github.com/AstralDeep/AstralPlane/issues/17) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Bound and validate public PlaneError diagnostic metadata](https://github.com/AstralDeep/AstralPlane/issues/16) |
+| 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Preserve recoverable shutdown state when driver closeall fails](https://github.com/AstralDeep/AstralPlane/issues/15) |
+| 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Reject awaitable callbacks before an async Plane transaction reports success](https://github.com/AstralDeep/AstralPlane/issues/14) |
+| 137.0 | unknown | 0 comments | `AstralDeep/AstralProjection` | [Preserve balanced parentheses in rendered Markdown link destinations](https://github.com/AstralDeep/AstralProjection/issues/37) |
+| 137.0 | unknown | 0 comments | `AstralDeep/AstralProjection` | [Include form submissions in ROTE read-only and action-budget adaptation](https://github.com/AstralDeep/AstralProjection/issues/36) |
 
 ## Agent decision rule
 
