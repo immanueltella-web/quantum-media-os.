@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-03 19:50 UTC**
+Updated: **2026-10-03 23:00 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -10,13 +10,10 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 |---:|---:|---:|---|---|
 | 182.0 | $25 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 4 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/220) |
 | 170.0 | $50 | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1225) |
-| 170.0 | $50 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 10 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1181) |
-| 170.0 | $50 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1523) |
 | 150.0 | $1000 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 16 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1528) |
 | 150.0 | $1000 | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 13 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1228) |
 | 150.0 | $1000 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 12 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1185) |
 | 140.0 | $0 | 2 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer 4 linked question(s) as a lesson](https://github.com/Ikalus1988/MisakaNet/issues/2757) |
-| 140.0 | $1000 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1728) |
 | 137.0 | unknown | 0 comments | `AstralDeep/LETS` | [Replace client deadline performance assertions with deterministic contract tests](https://github.com/AstralDeep/LETS/issues/73) |
 | 137.0 | unknown | 0 comments | `AstralDeep/LETS` | [Include serialized-client admission wait in the advertised total deadline](https://github.com/AstralDeep/LETS/issues/68) |
 | 137.0 | unknown | 0 comments | `AstralDeep/LETS` | [Preserve ownership of injected HTTP clients when total deadlines expire](https://github.com/AstralDeep/LETS/issues/67) |
@@ -28,6 +25,9 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Add an explicit async shutdown drain contract for embedded protocol servers](https://github.com/AstralDeep/AstralPlane/issues/21) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Reject fractional and non-finite revision fences without lossy int coercion](https://github.com/AstralDeep/AstralPlane/issues/18) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Reject canonical-JSON key collisions instead of silently rewriting durable payloads](https://github.com/AstralDeep/AstralPlane/issues/17) |
+| 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Bound and validate public PlaneError diagnostic metadata](https://github.com/AstralDeep/AstralPlane/issues/16) |
+| 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Preserve recoverable shutdown state when driver closeall fails](https://github.com/AstralDeep/AstralPlane/issues/15) |
+| 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Reject awaitable callbacks before an async Plane transaction reports success](https://github.com/AstralDeep/AstralPlane/issues/14) |
 
 ## Agent decision rule
 
