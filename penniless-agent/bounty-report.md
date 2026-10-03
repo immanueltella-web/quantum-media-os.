@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-03 17:14 UTC**
+Updated: **2026-10-03 19:50 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -9,12 +9,9 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | Score | Reward | Competition | Repository | Issue |
 |---:|---:|---:|---|---|
 | 182.0 | $25 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 4 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/220) |
-| 172.0 | $200 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 4 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/216) |
 | 170.0 | $50 | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1225) |
 | 170.0 | $50 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 10 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1181) |
 | 170.0 | $50 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1523) |
-| 170.0 | $50 | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 17 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1224) |
-| 170.0 | $50 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 16 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1180) |
 | 150.0 | $1000 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 16 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1528) |
 | 150.0 | $1000 | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 13 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1228) |
 | 150.0 | $1000 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 12 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1185) |
@@ -28,6 +25,9 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPrimitives` | [Keep non-finite numeric values out of primitive wire JSON](https://github.com/AstralDeep/AstralPrimitives/issues/8) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPrimitives` | [Reject child dictionaries without a concrete primitive type](https://github.com/AstralDeep/AstralPrimitives/issues/6) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPrimitives` | [Reject mismatched type discriminators in subclass from_dict calls](https://github.com/AstralDeep/AstralPrimitives/issues/5) |
+| 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Add an explicit async shutdown drain contract for embedded protocol servers](https://github.com/AstralDeep/AstralPlane/issues/21) |
+| 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Reject fractional and non-finite revision fences without lossy int coercion](https://github.com/AstralDeep/AstralPlane/issues/18) |
+| 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Reject canonical-JSON key collisions instead of silently rewriting durable payloads](https://github.com/AstralDeep/AstralPlane/issues/17) |
 
 ## Agent decision rule
 
