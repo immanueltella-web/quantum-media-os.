@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-03 23:00 UTC**
+Updated: **2026-10-04 02:35 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -9,7 +9,6 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | Score | Reward | Competition | Repository | Issue |
 |---:|---:|---:|---|---|
 | 182.0 | $25 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 4 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/220) |
-| 170.0 | $50 | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1225) |
 | 150.0 | $1000 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 16 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1528) |
 | 150.0 | $1000 | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 13 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1228) |
 | 150.0 | $1000 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 12 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1185) |
@@ -28,6 +27,7 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Bound and validate public PlaneError diagnostic metadata](https://github.com/AstralDeep/AstralPlane/issues/16) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Preserve recoverable shutdown state when driver closeall fails](https://github.com/AstralDeep/AstralPlane/issues/15) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Reject awaitable callbacks before an async Plane transaction reports success](https://github.com/AstralDeep/AstralPlane/issues/14) |
+| 137.0 | unknown | 0 comments | `AstralDeep/AstralProjection` | [Include form submissions in ROTE read-only and action-budget adaptation](https://github.com/AstralDeep/AstralProjection/issues/36) |
 
 ## Agent decision rule
 
