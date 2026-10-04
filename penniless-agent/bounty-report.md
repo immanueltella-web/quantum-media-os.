@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-04 19:34 UTC**
+Updated: **2026-10-04 23:06 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -9,8 +9,10 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | Score | Reward | Competition | Repository | Issue |
 |---:|---:|---:|---|---|
 | 182.0 | $25 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 5 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/227) |
+| 162.0 | $400 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 5 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/229) |
 | 140.0 | $0 | 2 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer 2 linked question(s) as a lesson](https://github.com/Ikalus1988/MisakaNet/issues/2838) |
 | 140.0 | $0 | 2 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer 3 linked question(s) as a lesson](https://github.com/Ikalus1988/MisakaNet/issues/2837) |
+| 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-04T21:17](https://github.com/relayhop/sn-monetization-runtime/issues/1252) |
 | 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-04T18:05](https://github.com/relayhop/sn-monetization-runtime/issues/1251) |
 | 137.0 | unknown | 0 comments | `AstralDeep/LETS` | [Replace client deadline performance assertions with deterministic contract tests](https://github.com/AstralDeep/LETS/issues/73) |
 | 137.0 | unknown | 0 comments | `AstralDeep/LETS` | [Include serialized-client admission wait in the advertised total deadline](https://github.com/AstralDeep/LETS/issues/68) |
@@ -20,14 +22,12 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPrimitives` | [Reject child dictionaries without a concrete primitive type](https://github.com/AstralDeep/AstralPrimitives/issues/6) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPrimitives` | [Reject mismatched type discriminators in subclass from_dict calls](https://github.com/AstralDeep/AstralPrimitives/issues/5) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Add an explicit async shutdown drain contract for embedded protocol servers](https://github.com/AstralDeep/AstralPlane/issues/21) |
+| 137.0 | unknown | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1536) |
 | 137.0 | unknown | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 10 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1234) |
 | 137.0 | unknown | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 10 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1194) |
 | 137.0 | unknown | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 8 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1535) |
-| 137.0 | unknown | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 1 New Opportunity](https://github.com/2510034127qq-wq/BountyScout/issues/222) |
 | 134.0 | $1000 | 3 comments | `tenstorrent/tt-metal` | [[Bounty $1,000] FP32 ttnn.cumsum returns NaN after infinity or overflow](https://github.com/tenstorrent/tt-metal/issues/58986) |
-| 128.0 | $300 | 2 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 4 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1532) |
-| 121.0 | unknown | 1 comments | `ysyhlly/basedagents-issue-workflow` | [Dry-run verification: automate JSON export](https://github.com/ysyhlly/basedagents-issue-workflow/issues/1) |
-| 121.0 | unknown | 1 comments | `AstralDeep/AstralPrimitives` | [Run a complete public-vocabulary serialization and round-trip contract matrix](https://github.com/AstralDeep/AstralPrimitives/issues/12) |
+| 125.0 | unknown | 0 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1235) |
 
 ## Agent decision rule
 
