@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-06 07:31 UTC**
+Updated: **2026-10-06 15:07 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -8,26 +8,26 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 
 | Score | Reward | Competition | Repository | Issue |
 |---:|---:|---:|---|---|
-| 162.0 | $550 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 4 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/234) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Show why a card button failed when the client is idle](https://github.com/AstralDeep/AstralDeep/issues/311) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Let a resumed live stream end at its deadline with its closing card](https://github.com/AstralDeep/AstralDeep/issues/310) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Keep a NUL character in feedback text from failing knowledge proposal generation](https://github.com/AstralDeep/AstralDeep/issues/309) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Bootstrap a valid production deployment safely](https://github.com/AstralDeep/AstralDeep/issues/293) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Add a read-only installation and readiness doctor](https://github.com/AstralDeep/AstralDeep/issues/292) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Propagate emergency stop and fence mesh peers on reconnect](https://github.com/AstralDeep/AstralDeep/issues/291) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Expose emergency stop and explicit resume in shared UI and CLI](https://github.com/AstralDeep/AstralDeep/issues/290) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Enforce a persistent owner-scoped local emergency stop](https://github.com/AstralDeep/AstralDeep/issues/289) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Persist emergency-stop epochs and bounded peer acknowledgments](https://github.com/AstralDeep/AstralPlane/issues/70) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Add shared selective A2A publication controls](https://github.com/AstralDeep/AstralDeep/issues/288) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Enforce owner-managed A2A publication and withdrawal](https://github.com/AstralDeep/AstralDeep/issues/287) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Store fenced owner capability-publication records](https://github.com/AstralDeep/AstralPlane/issues/69) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Recover orchestrator and client work continuity after node loss](https://github.com/AstralDeep/AstralDeep/issues/286) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Reconcile ambiguous cross-node execution results](https://github.com/AstralDeep/AstralDeep/issues/285) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Recover fenced work after an executor node fails](https://github.com/AstralDeep/AstralDeep/issues/284) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralPlane` | [Qualify externally managed endpoint failover readiness](https://github.com/AstralDeep/AstralPlane/issues/68) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Select a bounded personal-mesh availability topology](https://github.com/AstralDeep/AstralDeep/issues/283) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Dispatch authorized work to an approved Cresco target](https://github.com/AstralDeep/AstralDeep/issues/282) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Resolve enrolled mesh targets and current presence](https://github.com/AstralDeep/AstralDeep/issues/281) |
+| 172.0 | $70 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 20 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1545) |
+| 172.0 | $80 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 15 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1202) |
+| 156.0 | $80 | 1 comments | `vansh-09/BountyScout` | [🎯 Bounty Alert: 17 New Opportunityies found](https://github.com/vansh-09/BountyScout/issues/1241) |
+| 137.0 | unknown | 0 comments | `mazebench-temp/GreekIndexBounty` | [[100,000 sats] Odyssey Book 24: complete translation, lexicon, and exhaustive research index](https://github.com/mazebench-temp/GreekIndexBounty/issues/75) |
+| 137.0 | unknown | 0 comments | `mazebench-temp/GreekIndexBounty` | [[100,000 sats] Odyssey Book 23: complete translation, lexicon, and exhaustive research index](https://github.com/mazebench-temp/GreekIndexBounty/issues/74) |
+| 137.0 | unknown | 0 comments | `mazebench-temp/GreekIndexBounty` | [[100,000 sats] Odyssey Book 22: complete translation, lexicon, and exhaustive research index](https://github.com/mazebench-temp/GreekIndexBounty/issues/73) |
+| 137.0 | unknown | 0 comments | `mazebench-temp/GreekIndexBounty` | [[100,000 sats] Odyssey Book 21: complete translation, lexicon, and exhaustive research index](https://github.com/mazebench-temp/GreekIndexBounty/issues/72) |
+| 137.0 | unknown | 0 comments | `mazebench-temp/GreekIndexBounty` | [[100,000 sats] Odyssey Book 20: complete translation, lexicon, and exhaustive research index](https://github.com/mazebench-temp/GreekIndexBounty/issues/71) |
+| 137.0 | unknown | 0 comments | `mazebench-temp/GreekIndexBounty` | [[100,000 sats] Odyssey Book 19: complete translation, lexicon, and exhaustive research index](https://github.com/mazebench-temp/GreekIndexBounty/issues/70) |
+| 137.0 | unknown | 0 comments | `mazebench-temp/GreekIndexBounty` | [[100,000 sats] Odyssey Book 18: complete translation, lexicon, and exhaustive research index](https://github.com/mazebench-temp/GreekIndexBounty/issues/69) |
+| 137.0 | unknown | 0 comments | `mazebench-temp/GreekIndexBounty` | [[100,000 sats] Odyssey Book 17: complete translation, lexicon, and exhaustive research index](https://github.com/mazebench-temp/GreekIndexBounty/issues/68) |
+| 137.0 | unknown | 0 comments | `mazebench-temp/GreekIndexBounty` | [[100,000 sats] Odyssey Book 16: complete translation, lexicon, and exhaustive research index](https://github.com/mazebench-temp/GreekIndexBounty/issues/67) |
+| 137.0 | unknown | 0 comments | `mazebench-temp/GreekIndexBounty` | [[100,000 sats] Odyssey Book 15: complete translation, lexicon, and exhaustive research index](https://github.com/mazebench-temp/GreekIndexBounty/issues/66) |
+| 137.0 | unknown | 0 comments | `mazebench-temp/GreekIndexBounty` | [[100,000 sats] Odyssey Book 14: complete translation, lexicon, and exhaustive research index](https://github.com/mazebench-temp/GreekIndexBounty/issues/65) |
+| 137.0 | unknown | 0 comments | `mazebench-temp/GreekIndexBounty` | [[100,000 sats] Odyssey Book 13: complete translation, lexicon, and exhaustive research index](https://github.com/mazebench-temp/GreekIndexBounty/issues/64) |
+| 137.0 | unknown | 0 comments | `mazebench-temp/GreekIndexBounty` | [[100,000 sats] Odyssey Book 10: complete translation, lexicon, and exhaustive research index](https://github.com/mazebench-temp/GreekIndexBounty/issues/61) |
+| 137.0 | unknown | 0 comments | `mazebench-temp/GreekIndexBounty` | [[100,000 sats] Odyssey Book 9: complete translation, lexicon, and exhaustive research index](https://github.com/mazebench-temp/GreekIndexBounty/issues/60) |
+| 137.0 | unknown | 0 comments | `mazebench-temp/GreekIndexBounty` | [[100,000 sats] Odyssey Book 8: complete translation, lexicon, and exhaustive research index](https://github.com/mazebench-temp/GreekIndexBounty/issues/59) |
+| 137.0 | unknown | 0 comments | `mazebench-temp/GreekIndexBounty` | [[100,000 sats] Odyssey Book 5: complete translation, lexicon, and exhaustive research index](https://github.com/mazebench-temp/GreekIndexBounty/issues/56) |
+| 137.0 | unknown | 0 comments | `mazebench-temp/GreekIndexBounty` | [[100,000 sats] Odyssey Book 4: complete translation, lexicon, and exhaustive research index](https://github.com/mazebench-temp/GreekIndexBounty/issues/55) |
 
 ## Agent decision rule
 
