@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-08 00:10 UTC**
+Updated: **2026-10-08 05:58 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -11,13 +11,14 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 166.0 | $10 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1828) |
 | 166.0 | $40 | 1 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 17 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1210) |
 | 160.0 | $10 | 2 comments | `quantumchain-core/velodag-core` | [💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev](https://github.com/quantumchain-core/velodag-core/issues/2) |
+| 160.0 | $40 | 2 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 20 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1212) |
+| 160.0 | $40 | 2 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 20 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1552) |
+| 156.0 | $70 | 1 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 20 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/245) |
 | 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer 2 linked question(s) as a lesson](https://github.com/Ikalus1988/MisakaNet/issues/2988) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Preserve Gemini tool-continuation metadata through streamed responses](https://github.com/AstralDeep/AstralDeep/issues/347) |
-| 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Add shared selective A2A publication controls](https://github.com/AstralDeep/AstralDeep/issues/288) |
 | 137.0 | unknown | 0 comments | `abdulsalam-create/bounty-watch` | [bounty-watch 2026-10-07: 0 new, 0 resumed, 6 watchlist changes](https://github.com/abdulsalam-create/bounty-watch/issues/90) |
-| 126.0 | $3000 | 1 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 20 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/244) |
 | 121.0 | unknown | 1 comments | `SPLURT-Station/S.P.L.U.R.T-tg` | [[BOUNTY] Suggestion #1255](https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1286) |
 | 121.0 | unknown | 1 comments | `AstralDeep/AstralDeep` | [Qualify owner-scoped semantic memory retrieval and reranking](https://github.com/AstralDeep/AstralDeep/issues/348) |
+| 121.0 | unknown | 1 comments | `AstralDeep/AstralDeep` | [Preserve Gemini tool-continuation metadata through streamed responses](https://github.com/AstralDeep/AstralDeep/issues/347) |
 | 121.0 | unknown | 1 comments | `AstralDeep/AstralDeep` | [Preserve layout and source locations when parsing owned PDF/DOCX attachments](https://github.com/AstralDeep/AstralDeep/issues/346) |
 | 121.0 | unknown | 1 comments | `AstralDeep/AstralDeep` | [Qualify a fail-closed Linux subprocess profile using sandbox-runtime](https://github.com/AstralDeep/AstralDeep/issues/337) |
 | 121.0 | unknown | 1 comments | `AstralDeep/AstralDeep` | [Load full authorized skill revisions on demand without digest truncation](https://github.com/AstralDeep/AstralDeep/issues/335) |
@@ -27,7 +28,6 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 121.0 | unknown | 1 comments | `AstralDeep/AstralDeep` | [Propagate emergency stop and fence mesh peers on reconnect](https://github.com/AstralDeep/AstralDeep/issues/291) |
 | 121.0 | unknown | 1 comments | `AstralDeep/AstralDeep` | [Enforce a persistent owner-scoped local emergency stop](https://github.com/AstralDeep/AstralDeep/issues/289) |
 | 121.0 | unknown | 1 comments | `AstralDeep/AstralPlane` | [Persist emergency-stop epochs and bounded peer acknowledgments](https://github.com/AstralDeep/AstralPlane/issues/70) |
-| 119.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Evaluate contextual secret patterns without importing the Guardrails runtime](https://github.com/AstralDeep/AstralDeep/issues/324) |
 
 ## Agent decision rule
 
