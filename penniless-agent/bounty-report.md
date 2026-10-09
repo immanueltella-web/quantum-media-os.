@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-08 19:55 UTC**
+Updated: **2026-10-09 00:20 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -8,11 +8,15 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 
 | Score | Reward | Competition | Repository | Issue |
 |---:|---:|---:|---|---|
+| 182.0 | $45 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 20 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/248) |
 | 172.0 | $55 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 27 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1216) |
 | 172.0 | $65 | 0 comments | `2510034127qq-wq/BountyScout` | [🎯 Micro Bounty Alert: 20 New Opportunities](https://github.com/2510034127qq-wq/BountyScout/issues/247) |
+| 172.0 | $75 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 43 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1217) |
+| 172.0 | $85 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 16 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1555) |
 | 154.0 | $10 | 3 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1828) |
 | 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer 2 linked question(s) as a lesson](https://github.com/Ikalus1988/MisakaNet/issues/2988) |
 | 137.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Add shared selective A2A publication controls](https://github.com/AstralDeep/AstralDeep/issues/288) |
+| 125.0 | unknown | 0 comments | `abdulsalam-create/bounty-watch` | [bounty-watch 2026-10-08: 0 new, 0 resumed, 3 watchlist changes](https://github.com/abdulsalam-create/bounty-watch/issues/93) |
 | 121.0 | unknown | 1 comments | `AstralDeep/AstralDeep` | [Qualify owner-scoped semantic memory retrieval and reranking](https://github.com/AstralDeep/AstralDeep/issues/348) |
 | 121.0 | unknown | 1 comments | `AstralDeep/AstralDeep` | [Preserve Gemini tool-continuation metadata through streamed responses](https://github.com/AstralDeep/AstralDeep/issues/347) |
 | 121.0 | unknown | 1 comments | `AstralDeep/AstralDeep` | [Preserve layout and source locations when parsing owned PDF/DOCX attachments](https://github.com/AstralDeep/AstralDeep/issues/346) |
@@ -24,10 +28,6 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 121.0 | unknown | 1 comments | `AstralDeep/AstralDeep` | [Propagate emergency stop and fence mesh peers on reconnect](https://github.com/AstralDeep/AstralDeep/issues/291) |
 | 121.0 | unknown | 1 comments | `AstralDeep/AstralDeep` | [Enforce a persistent owner-scoped local emergency stop](https://github.com/AstralDeep/AstralDeep/issues/289) |
 | 121.0 | unknown | 1 comments | `AstralDeep/AstralPlane` | [Persist emergency-stop epochs and bounded peer acknowledgments](https://github.com/AstralDeep/AstralPlane/issues/70) |
-| 120.0 | $3000 | 2 comments | `tenstorrent/tt-metal` | [[Bounty $3,000] Fix ttnn.sampling distribution bias from low-precision random threshold](https://github.com/tenstorrent/tt-metal/issues/59732) |
-| 119.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Qualify the OpenAI MCP tunnel against Astral authentication and discovery](https://github.com/AstralDeep/AstralDeep/issues/323) |
-| 119.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Serve owner-authorized MCP resources for an optional ChatGPT Work panel](https://github.com/AstralDeep/AstralDeep/issues/322) |
-| 119.0 | unknown | 0 comments | `AstralDeep/AstralDeep` | [Qualify an isolated OpenAI Agents SDK consumer of Astral Work](https://github.com/AstralDeep/AstralDeep/issues/321) |
 
 ## Agent decision rule
 
