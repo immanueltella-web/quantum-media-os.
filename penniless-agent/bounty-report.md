@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-12 10:42 UTC**
+Updated: **2026-10-12 20:16 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -8,26 +8,26 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 
 | Score | Reward | Competition | Repository | Issue |
 |---:|---:|---:|---|---|
-| 182.0 | $50 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 10 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1235) |
-| 182.0 | $50 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 12 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1575) |
-| 172.0 | $70 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 13 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1240) |
-| 172.0 | $100 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 12 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1574) |
-| 170.0 | $10 | 0 comments | `ariahendrawan-sudo/project-a` | [Bounty Scout — 2026-10-12](https://github.com/ariahendrawan-sudo/project-a/issues/12) |
-| 162.0 | $500 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 12 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1579) |
-| 154.0 | $70 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 15 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1234) |
-| 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-12T07:16](https://github.com/relayhop/sn-monetization-runtime/issues/1281) |
-| 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-12T00:27](https://github.com/relayhop/sn-monetization-runtime/issues/1279) |
-| 137.0 | unknown | 0 comments | `abdulsalam-create/bounty-watch` | [bounty-watch 2026-10-12: 0 new, 0 resumed, 6 watchlist changes](https://github.com/abdulsalam-create/bounty-watch/issues/106) |
-| 132.0 | $10 | 5 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] 💰 Donate $10-$100 USDT/USDC — Support VeloDAG Core Rust Dev](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1828) |
-| 125.0 | unknown | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1239) |
-| 125.0 | unknown | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 8 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1577) |
-| 125.0 | unknown | 0 comments | `abdulsalam-create/bounty-watch` | [bounty-watch 2026-10-11: 0 new, 0 resumed, 1 watchlist changes](https://github.com/abdulsalam-create/bounty-watch/issues/105) |
-| 121.0 | unknown | 1 comments | `NSPG13/agent-bounties` | [[Bounty] Bring a real backlog: get an established open-source project to fund its first Agent Bounties bounty](https://github.com/NSPG13/agent-bounties/issues/1632) |
-| 117.0 | $24 | 0 comments | `FuRongJun-1999/dsh-bounty` | [[Bug][P2][文档] rules 页与 docs/bounty/README 新增的「价值论证」节自相矛盾：自称「每条数据附来源 URL」但 0 个 URL；Mem0 来源与《价值论证》不一致；页面上的金额让《价值评价规格》V2「全站 grep 金额 → 零命中」直接变红](https://github.com/FuRongJun-1999/dsh-bounty/issues/50) |
-| 117.0 | $50 | 0 comments | `paraloom-labs/paraloom-core` | [[BOUNTY] Low: unauthenticated kdfVersion permanently bricks the vault and forces the legacy KDF (paraloom-wallet)](https://github.com/paraloom-labs/paraloom-core/issues/873) |
-| 115.0 | unknown | 2 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-11T20:11](https://github.com/relayhop/sn-monetization-runtime/issues/1277) |
-| 115.0 | unknown | 2 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-11T15:34](https://github.com/relayhop/sn-monetization-runtime/issues/1275) |
-| 115.0 | unknown | 2 comments | `AstralDeep/AstralDeep` | [Let a resumed live stream end at its deadline with its closing card](https://github.com/AstralDeep/AstralDeep/issues/310) |
+| 182.0 | $50 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for RTX 5060 Ti 16 GB](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1878) |
+| 166.0 | $50 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for Intel Arc B580 12 GB](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1884) |
+| 166.0 | $50 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for RTX 2080 Ti 11 GB](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1883) |
+| 166.0 | $50 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for a 27B model on a 16 GB AMD card](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1880) |
+| 166.0 | $50 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for RX 7900 XTX 24 GB](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1881) |
+| 166.0 | $50 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for GTX 1080 Ti 11 GB](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1882) |
+| 166.0 | $50 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for RTX 4060 Ti 16 GB](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1879) |
+| 166.0 | $50 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU)](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1877) |
+| 166.0 | $50 | 1 comments | `sybil-solutions/local-ai-registry` | [Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU)](https://github.com/sybil-solutions/local-ai-registry/issues/223) |
+| 166.0 | $50 | 1 comments | `sybil-solutions/local-ai-registry` | [Bounty $50: recipe for RTX 4060 Ti 16 GB](https://github.com/sybil-solutions/local-ai-registry/issues/221) |
+| 166.0 | $50 | 1 comments | `sybil-solutions/local-ai-registry` | [Bounty $50: recipe for RX 7900 XTX 24 GB](https://github.com/sybil-solutions/local-ai-registry/issues/219) |
+| 166.0 | $50 | 1 comments | `sybil-solutions/local-ai-registry` | [Bounty $50: recipe for RTX 2080 Ti 11 GB](https://github.com/sybil-solutions/local-ai-registry/issues/217) |
+| 166.0 | $50 | 1 comments | `sybil-solutions/local-ai-registry` | [Bounty $50: recipe for Intel Arc B580 12 GB](https://github.com/sybil-solutions/local-ai-registry/issues/216) |
+| 164.0 | $50 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 20 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1242) |
+| 160.0 | $50 | 2 comments | `sybil-solutions/local-ai-registry` | [Bounty $50: recipe for GTX 1080 Ti 11 GB](https://github.com/sybil-solutions/local-ai-registry/issues/218) |
+| 154.0 | $50 | 3 comments | `sybil-solutions/local-ai-registry` | [Bounty $50: recipe for RTX 5060 Ti 16 GB](https://github.com/sybil-solutions/local-ai-registry/issues/222) |
+| 142.0 | $5000 | 0 comments | `osmesirius-ship-it/daxda-next-gen` | [[PAYOUT CLAIM] [bounty-mmpibench] [BOUNTY] [$5000] [AGENTIC] [AI] DAXDA MMPIBench Memetic Penetration Depth – Anthropic Alignment Evaluation ($5,000)](https://github.com/osmesirius-ship-it/daxda-next-gen/issues/39) |
+| 142.0 | $6500 | 0 comments | `osmesirius-ship-it/daxda-next-gen` | [[PAYOUT CLAIM] [bounty-chrono] [BOUNTY] [$6500] [AGENTIC] [AI] DAXDA Chrono-Synchronicity Mapping – Geometric Retrocausality Layer ($6,500)](https://github.com/osmesirius-ship-it/daxda-next-gen/issues/40) |
+| 142.0 | $7500 | 0 comments | `osmesirius-ship-it/daxda-next-gen` | [[PAYOUT CLAIM] [bounty-containment] [BOUNTY] [$7500] [AGENTIC] [AI] DAXDA Anomalous Containment Wing – AGI Escape Test Suite & SOC Integration ($7,500)](https://github.com/osmesirius-ship-it/daxda-next-gen/issues/38) |
+| 142.0 | $8000 | 0 comments | `osmesirius-ship-it/daxda-next-gen` | [[PAYOUT CLAIM] [bounty-cl16-4] [BOUNTY] [$8000] [AGENTIC] [AI] DAXDA Cl(16,4) Hypercombinatorial Governance Engine – Dyson Sphere Engineering Department ($8,000)](https://github.com/osmesirius-ship-it/daxda-next-gen/issues/37) |
 
 ## Agent decision rule
 
