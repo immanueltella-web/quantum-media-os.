@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-14 01:53 UTC**
+Updated: **2026-10-14 07:33 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -20,14 +20,14 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 160.0 | $50 | 2 comments | `sybil-solutions/local-ai-registry` | [Bounty $50: recipe for RTX 4060 Ti 16 GB](https://github.com/sybil-solutions/local-ai-registry/issues/221) |
 | 160.0 | $150 | 0 comments | `habibdxb01/bounty-watcher` | [📋 2 open bounties right now](https://github.com/habibdxb01/bounty-watcher/issues/5) |
 | 154.0 | $50 | 3 comments | `sybil-solutions/local-ai-registry` | [Bounty $50: recipe for RTX 5060 Ti 16 GB](https://github.com/sybil-solutions/local-ai-registry/issues/222) |
-| 154.0 | $80 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 10 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1247) |
-| 154.0 | $100 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 12 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1586) |
 | 138.0 | $50 | 4 comments | `sybil-solutions/local-ai-registry` | [Bounty $50: recipe for RX 7900 XTX 24 GB](https://github.com/sybil-solutions/local-ai-registry/issues/219) |
 | 138.0 | $50 | 4 comments | `sybil-solutions/local-ai-registry` | [Bounty $50: recipe for Intel Arc B580 12 GB](https://github.com/sybil-solutions/local-ai-registry/issues/216) |
 | 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-12T17:46](https://github.com/relayhop/sn-monetization-runtime/issues/1284) |
 | 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-12T15:12](https://github.com/relayhop/sn-monetization-runtime/issues/1283) |
 | 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-12T07:16](https://github.com/relayhop/sn-monetization-runtime/issues/1281) |
 | 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-12T00:27](https://github.com/relayhop/sn-monetization-runtime/issues/1279) |
+| 137.0 | unknown | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 12 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1588) |
+| 137.0 | unknown | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 13 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1587) |
 
 ## Agent decision rule
 
