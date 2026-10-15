@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-14 22:16 UTC**
+Updated: **2026-10-15 00:32 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -10,6 +10,7 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 |---:|---:|---:|---|---|
 | 182.0 | $50 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 14 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1250) |
 | 172.0 | $75 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 16 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1589) |
+| 170.0 | $25 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 12 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1592) |
 | 166.0 | $50 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for Intel Arc B580 12 GB](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1884) |
 | 166.0 | $50 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for RTX 2080 Ti 11 GB](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1883) |
 | 166.0 | $50 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for a 27B model on a 16 GB AMD card](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1880) |
@@ -27,7 +28,6 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-12T17:46](https://github.com/relayhop/sn-monetization-runtime/issues/1284) |
 | 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-12T15:12](https://github.com/relayhop/sn-monetization-runtime/issues/1283) |
 | 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-12T07:16](https://github.com/relayhop/sn-monetization-runtime/issues/1281) |
-| 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-12T00:27](https://github.com/relayhop/sn-monetization-runtime/issues/1279) |
 
 ## Agent decision rule
 
