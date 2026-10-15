@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-15 16:56 UTC**
+Updated: **2026-10-15 20:19 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -8,26 +8,26 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 
 | Score | Reward | Competition | Repository | Issue |
 |---:|---:|---:|---|---|
-| 182.0 | $1 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 21 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1593) |
 | 172.0 | $60 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 17 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1595) |
 | 172.0 | $70 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 18 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1256) |
-| 166.0 | $50 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for Intel Arc B580 12 GB](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1884) |
-| 166.0 | $50 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for RTX 2080 Ti 11 GB](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1883) |
-| 166.0 | $50 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for a 27B model on a 16 GB AMD card](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1880) |
-| 166.0 | $50 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for RX 7900 XTX 24 GB](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1881) |
-| 166.0 | $50 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for GTX 1080 Ti 11 GB](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1882) |
-| 166.0 | $50 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for RTX 4060 Ti 16 GB](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1879) |
-| 166.0 | $50 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU)](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1877) |
-| 166.0 | $50 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Bounty $50: recipe for RTX 5060 Ti 16 GB](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1878) |
+| 172.0 | $75 | 0 comments | `Parabola-org/parabola` | [[Bounty: $75] Website: accessibility and motion-preference fixes for the landing page](https://github.com/Parabola-org/parabola/issues/16) |
+| 172.0 | $75 | 0 comments | `Parabola-org/parabola` | [[Bounty: $75] Package hygiene: sideEffects flag, export-map validation, and publint in CI](https://github.com/Parabola-org/parabola/issues/15) |
+| 172.0 | $75 | 0 comments | `Parabola-org/parabola` | [[Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError.burnTxHash](https://github.com/Parabola-org/parabola/issues/14) |
+| 172.0 | $75 | 0 comments | `Parabola-org/parabola` | [[Bounty: $75] Unit tests for src/errors.ts and a public export surface snapshot](https://github.com/Parabola-org/parabola/issues/13) |
+| 172.0 | $75 | 0 comments | `Parabola-org/parabola` | [[Bounty: $75] Expose retry/backoff knobs for Stellar allowance wait and RPC-lag retry](https://github.com/Parabola-org/parabola/issues/12) |
+| 172.0 | $75 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Add `ShellDriverSh`: use `/bin/sh` when `SHELL` is not set](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1895) |
+| 172.0 | $90 | 0 comments | `Parabola-org/parabola` | [[Bounty: $90] Add ESLint with typescript-eslint and wire it into CI](https://github.com/Parabola-org/parabola/issues/11) |
+| 172.0 | $90 | 0 comments | `Parabola-org/parabola` | [[Bounty: $90] Reject amounts whose precision exceeds the destination chain's USDC decimals](https://github.com/Parabola-org/parabola/issues/10) |
+| 172.0 | $90 | 0 comments | `Parabola-org/parabola` | [[Bounty: $90] Reject unsupported CCTP message versions in decodeCctpMessage](https://github.com/Parabola-org/parabola/issues/9) |
+| 172.0 | $90 | 0 comments | `Parabola-org/parabola` | [[Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxWait fallback](https://github.com/Parabola-org/parabola/issues/7) |
+| 172.0 | $105 | 0 comments | `Parabola-org/parabola` | [[Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing accounts](https://github.com/Parabola-org/parabola/issues/4) |
+| 172.0 | $105 | 0 comments | `Parabola-org/parabola` | [[Bounty: $105] Tolerate transient Iris failures in getAttestation and resolveBurn](https://github.com/Parabola-org/parabola/issues/3) |
+| 172.0 | $105 | 0 comments | `Parabola-org/parabola` | [[Bounty: $105] Preserve burnTxHash when Stellar confirmation polling hits transient RPC errors](https://github.com/Parabola-org/parabola/issues/1) |
+| 160.0 | $45 | 2 comments | `Parabola-org/parabola` | [[Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests](https://github.com/Parabola-org/parabola/issues/20) |
 | 160.0 | $150 | 0 comments | `habibdxb01/bounty-watcher` | [📋 2 open bounties right now](https://github.com/habibdxb01/bounty-watcher/issues/5) |
-| 154.0 | $50 | 3 comments | `sybil-solutions/local-ai-registry` | [Bounty $50: recipe for Ryzen AI 890M (Radeon 890M iGPU)](https://github.com/sybil-solutions/local-ai-registry/issues/223) |
+| 154.0 | $90 | 0 comments | `Parabola-org/parabola` | [[Bounty: $90] Skip the Arc approve transaction when the existing allowance already covers the burn](https://github.com/Parabola-org/parabola/issues/8) |
+| 150.0 | $125 | 2 comments | `Parabola-org/parabola` | [[Bounty: $125] Add structured progress callbacks to transfer()](https://github.com/Parabola-org/parabola/issues/6) |
 | 148.0 | $30 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1892) |
-| 148.0 | $30 | 2 comments | `verdikta/verdikta-applications` | [[BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid on Poidh, Base)](https://github.com/verdikta/verdikta-applications/issues/76) |
-| 137.0 | unknown | 0 comments | `ditto-assistant/ditto-subnet` | [Evaluate one scoped build-bounty pilot against an internal build](https://github.com/ditto-assistant/ditto-subnet/issues/2944) |
-| 137.0 | unknown | 0 comments | `ditto-assistant/ditto-subnet` | [Add bounty operator controls and gate funded activation](https://github.com/ditto-assistant/ditto-subnet/issues/2943) |
-| 137.0 | unknown | 0 comments | `ditto-assistant/ditto-subnet` | [Implement paid bounty slots, alpha fee confirmation, and submission deadlines](https://github.com/ditto-assistant/ditto-subnet/issues/2942) |
-| 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-12T17:46](https://github.com/relayhop/sn-monetization-runtime/issues/1284) |
-| 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-12T15:12](https://github.com/relayhop/sn-monetization-runtime/issues/1283) |
 
 ## Agent decision rule
 
