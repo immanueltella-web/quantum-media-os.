@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-17 17:07 UTC**
+Updated: **2026-10-17 19:21 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -22,12 +22,12 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 150.0 | $75 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty: $75] Unit tests for src/errors.ts and a public export surface snapshot](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1903) |
 | 150.0 | $90 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxWait fallb](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1909) |
 | 150.0 | $90 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USD](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1906) |
-| 150.0 | $105 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1912) |
 | 150.0 | $125 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty: $125] Add AbortSignal support across transfer, completeMint, and attest](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1911) |
 | 150.0 | $250 | 2 comments | `limitlessprojects/Go-Hybrid` | [[wildcard] GUARANTEES.md row 12 is wrong: cancellation-safety is a one-pass corollary of Tier-0](https://github.com/limitlessprojects/Go-Hybrid/issues/352) |
 | 148.0 | $30 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1892) |
 | 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 3 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/3430) |
 | 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer 2 linked question(s) as a lesson](https://github.com/Ikalus1988/MisakaNet/issues/3332) |
+| 144.0 | $105 | 3 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty: $105] checkStellarRecipientReady must not report RPC outages as missing](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1912) |
 
 ## Agent decision rule
 
