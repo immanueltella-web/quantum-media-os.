@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-18 04:26 UTC**
+Updated: **2026-10-18 09:33 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -11,23 +11,23 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 172.0 | $60 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty: $60] Docs: add a "Failure modes and recovery" guide](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1899) |
 | 172.0 | $60 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty: $60] Harden scripts/testnet-smoke.mjs with retries, exit codes, and a s](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1898) |
 | 172.0 | $75 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty: $75] Demo app: recovery flow for post-burn failures using TransferError](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1902) |
-| 172.0 | $75 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1606) |
 | 172.0 | $105 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 9 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1609) |
-| 166.0 | $50 | 1 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 19 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1267) |
 | 160.0 | $45 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty: $45] Export convertPrecision and add 6↔7 decimal round-trip tests](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1896) |
 | 156.0 | $75 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] Add `ShellDriverSh`: use `/bin/sh` when `SHELL` is not set](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1895) |
 | 156.0 | $250 | 1 comments | `limitlessprojects/Go-Hybrid` | [[wildcard] Erase the .hy / .go Split: Whole-Package Tier-0 Checking via Native Go AST and Export-Data Analysis](https://github.com/limitlessprojects/Go-Hybrid/issues/186) |
-| 154.0 | $50 | 1 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 8 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1268) |
 | 150.0 | $250 | 2 comments | `limitlessprojects/Go-Hybrid` | [[wildcard] GUARANTEES.md row 12 is wrong: cancellation-safety is a one-pass corollary of Tier-0](https://github.com/limitlessprojects/Go-Hybrid/issues/352) |
 | 148.0 | $30 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [BOUNTY ~$30 x4] Post and fund a real task on Verdikta, publish a write-up (paid](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1892) |
-| 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/3431) |
-| 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer 2 linked question(s) as a lesson](https://github.com/Ikalus1988/MisakaNet/issues/3332) |
 | 144.0 | $90 | 3 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty: $90] Make estimateFee agree with transfer() on maxFee and maxWait fallb](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1909) |
 | 144.0 | $90 | 3 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty: $90] Reject amounts whose precision exceeds the destination chain's USD](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1906) |
-| 140.0 | $0 | 2 comments | `limitlessprojects/Go-Hybrid` | [[wildcard] Compile fixed-rate task networks away: certified periodic Go kernels with explicit buffer budgets](https://github.com/limitlessprojects/Go-Hybrid/issues/378) |
-| 137.0 | unknown | 0 comments | `Element-Ventures-Canada-Ltd/openchokepoint` | [[Slice D] Standards crosswalk: W3C PROV-O, QIF (ISO 23952), STEP AP242 (ISO 10303-242)](https://github.com/Element-Ventures-Canada-Ltd/openchokepoint/issues/19) |
+| 142.0 | $80 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 14 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1611) |
+| 137.0 | unknown | 0 comments | `mozzimorzam-sudo/project100-mcp` | [Add rate limiting to /api/v1/artifacts endpoint](https://github.com/mozzimorzam-sudo/project100-mcp/issues/7) |
+| 137.0 | unknown | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 10 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1273) |
 | 137.0 | unknown | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 8 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1271) |
 | 137.0 | unknown | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 13 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1269) |
+| 137.0 | unknown | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1607) |
+| 134.0 | $0 | 3 comments | `limitlessprojects/Go-Hybrid` | [[wildcard] Compile fixed-rate task networks away: certified periodic Go kernels with explicit buffer budgets](https://github.com/limitlessprojects/Go-Hybrid/issues/378) |
+| 134.0 | $0 | 3 comments | `limitlessprojects/Go-Hybrid` | [[wildcard] Lexical Split-Join Slice Capabilities via Zero-Allocation 3-Index Capacity Clipping](https://github.com/limitlessprojects/Go-Hybrid/issues/294) |
+| 132.0 | $45 | 5 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty: $45] Validate input to bytes32ToStellarAddress](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/1897) |
 
 ## Agent decision rule
 
