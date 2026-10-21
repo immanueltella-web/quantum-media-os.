@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-21 11:43 UTC**
+Updated: **2026-10-21 17:08 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -8,26 +8,26 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 
 | Score | Reward | Competition | Repository | Issue |
 |---:|---:|---:|---|---|
-| 172.0 | $55 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 12 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1288) |
-| 170.0 | $5 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 7 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1290) |
-| 162.0 | $0.01 | 0 comments | `paraspell/xcm-tools` | [[Bug bounty] Hydration calculateFee passes raw units as a decimal string, so the fee is estimated on an oversized trade](https://github.com/paraspell/xcm-tools/issues/2174) |
-| 160.0 | $50 | 2 comments | `jomaaabbe78-spec/bookningsapp` | [[TEST BOUNTY] Fix typo in README](https://github.com/jomaaabbe78-spec/bookningsapp/issues/1) |
 | 156.0 | $250 | 1 comments | `limitlessprojects/Go-Hybrid` | [[wildcard] Make FFI claims proof-carrying: verify boundary contracts against the linked Rust artifact](https://github.com/limitlessprojects/Go-Hybrid/issues/610) |
 | 154.0 | $50 | 3 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [TEST BOUNTY] Fix typo in README](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4061) |
+| 154.0 | $50 | 3 comments | `jomaaabbe78-spec/bookningsapp` | [[TEST BOUNTY] Fix typo in README](https://github.com/jomaaabbe78-spec/bookningsapp/issues/1) |
 | 154.0 | $150 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 9 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1630) |
 | 150.0 | $250 | 2 comments | `limitlessprojects/Go-Hybrid` | [[wildcard] Erase the .hy / .go Split: Whole-Package Tier-0 Checking via Native Go AST and Export-Data Analysis](https://github.com/limitlessprojects/Go-Hybrid/issues/186) |
+| 140.0 | $0 | 2 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/3622) |
+| 137.0 | unknown | 0 comments | `amiller/bounty-arcade` | [[routes] Time, moving time and speed](https://github.com/amiller/bounty-arcade/issues/12) |
+| 137.0 | unknown | 0 comments | `amiller/bounty-arcade` | [[routes] Gain/loss threshold](https://github.com/amiller/bounty-arcade/issues/11) |
+| 137.0 | unknown | 0 comments | `amiller/bounty-arcade` | [[routes] Segments and gaps](https://github.com/amiller/bounty-arcade/issues/10) |
+| 137.0 | unknown | 0 comments | `amiller/bounty-arcade` | [[puzzle] Shareable replay links](https://github.com/amiller/bounty-arcade/issues/9) |
+| 137.0 | unknown | 0 comments | `amiller/bounty-arcade` | [[puzzle] Persist progress and best scores per level](https://github.com/amiller/bounty-arcade/issues/8) |
+| 137.0 | unknown | 0 comments | `amiller/bounty-arcade` | [[puzzle] Deadlock detection for boxes stuck in corners](https://github.com/amiller/bounty-arcade/issues/7) |
+| 137.0 | unknown | 0 comments | `amiller/bounty-arcade` | [[flight] Seeded wind](https://github.com/amiller/bounty-arcade/issues/6) |
+| 137.0 | unknown | 0 comments | `amiller/bounty-arcade` | [[flight] Run recording and replay](https://github.com/amiller/bounty-arcade/issues/5) |
+| 137.0 | unknown | 0 comments | `amiller/bounty-arcade` | [[flight] Fuel](https://github.com/amiller/bounty-arcade/issues/4) |
+| 137.0 | unknown | 0 comments | `amiller/bounty-arcade` | [[board] Work-in-progress limit on Doing](https://github.com/amiller/bounty-arcade/issues/3) |
+| 137.0 | unknown | 0 comments | `amiller/bounty-arcade` | [[board] Undo and redo](https://github.com/amiller/bounty-arcade/issues/2) |
 | 137.0 | unknown | 0 comments | `lizTheDeveloper/privacy-the-game` | [[find opt-out] Vintel AI: find the official opt-out route](https://github.com/lizTheDeveloper/privacy-the-game/issues/413) |
 | 137.0 | unknown | 0 comments | `lizTheDeveloper/privacy-the-game` | [[find opt-out] United One Resources, Inc.: find the official opt-out route](https://github.com/lizTheDeveloper/privacy-the-game/issues/412) |
 | 137.0 | unknown | 0 comments | `lizTheDeveloper/privacy-the-game` | [[find opt-out] Statara Solutuions LLC: find the official opt-out route](https://github.com/lizTheDeveloper/privacy-the-game/issues/411) |
-| 137.0 | unknown | 0 comments | `lizTheDeveloper/privacy-the-game` | [[find opt-out] SalesTech, LLC: find the official opt-out route](https://github.com/lizTheDeveloper/privacy-the-game/issues/410) |
-| 137.0 | unknown | 0 comments | `lizTheDeveloper/privacy-the-game` | [[find opt-out] SageStream LLC: find the official opt-out route](https://github.com/lizTheDeveloper/privacy-the-game/issues/409) |
-| 137.0 | unknown | 0 comments | `lizTheDeveloper/privacy-the-game` | [[find opt-out] Safety Holdings Inc.: find the official opt-out route](https://github.com/lizTheDeveloper/privacy-the-game/issues/408) |
-| 137.0 | unknown | 0 comments | `lizTheDeveloper/privacy-the-game` | [[find opt-out] S&P GLOBAL MARKET INTELLIGENCE: find the official opt-out route](https://github.com/lizTheDeveloper/privacy-the-game/issues/407) |
-| 137.0 | unknown | 0 comments | `lizTheDeveloper/privacy-the-game` | [[find opt-out] RP On-Site LLC: find the official opt-out route](https://github.com/lizTheDeveloper/privacy-the-game/issues/406) |
-| 137.0 | unknown | 0 comments | `lizTheDeveloper/privacy-the-game` | [[find opt-out] Roq.ad GmbH: find the official opt-out route](https://github.com/lizTheDeveloper/privacy-the-game/issues/405) |
-| 137.0 | unknown | 0 comments | `lizTheDeveloper/privacy-the-game` | [[find opt-out] Riv Data Corp: find the official opt-out route](https://github.com/lizTheDeveloper/privacy-the-game/issues/404) |
-| 137.0 | unknown | 0 comments | `lizTheDeveloper/privacy-the-game` | [[find opt-out] Quality Planning Corporation: find the official opt-out route](https://github.com/lizTheDeveloper/privacy-the-game/issues/403) |
-| 137.0 | unknown | 0 comments | `lizTheDeveloper/privacy-the-game` | [[find opt-out] Partners Credit and Verification Solutions: find the official opt-out route](https://github.com/lizTheDeveloper/privacy-the-game/issues/402) |
 
 ## Agent decision rule
 
