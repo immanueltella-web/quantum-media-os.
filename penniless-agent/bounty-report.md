@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-21 20:36 UTC**
+Updated: **2026-10-21 23:59 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -24,10 +24,10 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 137.0 | unknown | 0 comments | `amiller/bounty-arcade` | [[flight] Seeded wind](https://github.com/amiller/bounty-arcade/issues/6) |
 | 137.0 | unknown | 0 comments | `amiller/bounty-arcade` | [[flight] Run recording and replay](https://github.com/amiller/bounty-arcade/issues/5) |
 | 137.0 | unknown | 0 comments | `amiller/bounty-arcade` | [[flight] Fuel](https://github.com/amiller/bounty-arcade/issues/4) |
-| 137.0 | unknown | 0 comments | `amiller/bounty-arcade` | [[board] Work-in-progress limit on Doing](https://github.com/amiller/bounty-arcade/issues/3) |
 | 137.0 | unknown | 0 comments | `amiller/bounty-arcade` | [[board] Undo and redo](https://github.com/amiller/bounty-arcade/issues/2) |
 | 137.0 | unknown | 0 comments | `lizTheDeveloper/privacy-the-game` | [[find opt-out] Vintel AI: find the official opt-out route](https://github.com/lizTheDeveloper/privacy-the-game/issues/413) |
 | 137.0 | unknown | 0 comments | `lizTheDeveloper/privacy-the-game` | [[find opt-out] United One Resources, Inc.: find the official opt-out route](https://github.com/lizTheDeveloper/privacy-the-game/issues/412) |
+| 137.0 | unknown | 0 comments | `lizTheDeveloper/privacy-the-game` | [[find opt-out] Statara Solutuions LLC: find the official opt-out route](https://github.com/lizTheDeveloper/privacy-the-game/issues/411) |
 
 ## Agent decision rule
 
