@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-24 20:44 UTC**
+Updated: **2026-10-24 23:09 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -13,8 +13,12 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 172.0 | $100 | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 12 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/8) |
 | 172.0 | $100 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 10 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1653) |
 | 172.0 | $100 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 10 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1311) |
-| 172.0 | $150 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1309) |
+| 172.0 | $200 | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 8 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/10) |
+| 172.0 | $200 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 7 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1655) |
+| 166.0 | $10 | 1 comments | `auscaster/frantic-board` | [Frantic bounty #138: Find a live HTTP 402 endpoint that prices in Nano (XNO)](https://github.com/auscaster/frantic-board/issues/558) |
+| 166.0 | $10 | 1 comments | `auscaster/frantic-board` | [Frantic bounty #137: Protocol conformance audit: izanami-916.github.io/protocol.html vs the live ask rail](https://github.com/auscaster/frantic-board/issues/557) |
 | 160.0 | $150 | 0 comments | `habibdxb01/bounty-watcher` | [📋 2 open bounties right now](https://github.com/habibdxb01/bounty-watcher/issues/8) |
+| 160.0 | $200 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 4 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1313) |
 | 154.0 | $200 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1312) |
 | 154.0 | $200 | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 9 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/6) |
 | 154.0 | $200 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 7 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1650) |
@@ -24,10 +28,6 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 150.0 | $100 | 2 comments | `alfrexo95/bounty-bot` | [💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ](https://github.com/alfrexo95/bounty-bot/issues/21) |
 | 150.0 | $250 | 2 comments | `limitlessprojects/Go-Hybrid` | [[wildcard] Erase the .hy / .go Split: Whole-Package Tier-0 Checking via Native Go AST and Export-Data Analysis](https://github.com/limitlessprojects/Go-Hybrid/issues/186) |
 | 144.0 | $100 | 3 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] 💰 Bounty Seguro ($$100): 💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4110) |
-| 144.0 | $250 | 3 comments | `limitlessprojects/Go-Hybrid` | [[wildcard] Make FFI claims proof-carrying: verify boundary contracts against the linked Rust artifact](https://github.com/limitlessprojects/Go-Hybrid/issues/610) |
-| 140.0 | $0 | 2 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/3622) |
-| 137.0 | unknown | 0 comments | `abdulsalam-create/bounty-watch` | [bounty-watch 2026-10-24: 0 new, 0 resumed, 2 watchlist changes](https://github.com/abdulsalam-create/bounty-watch/issues/167) |
-| 137.0 | unknown | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 9 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/7) |
 
 ## Agent decision rule
 
