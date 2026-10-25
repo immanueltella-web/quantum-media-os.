@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-25 06:03 UTC**
+Updated: **2026-10-25 11:20 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -17,12 +17,12 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 172.0 | $100 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 10 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1311) |
 | 172.0 | $200 | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 8 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/10) |
 | 172.0 | $200 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 7 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1655) |
-| 166.0 | $10 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4114) |
-| 166.0 | $10 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4113) |
 | 166.0 | $10 | 1 comments | `auscaster/frantic-board` | [Frantic bounty #138: Find a live HTTP 402 endpoint that prices in Nano (XNO)](https://github.com/auscaster/frantic-board/issues/558) |
 | 166.0 | $10 | 1 comments | `auscaster/frantic-board` | [Frantic bounty #137: Protocol conformance audit: izanami-916.github.io/protocol.html vs the live ask rail](https://github.com/auscaster/frantic-board/issues/557) |
 | 164.0 | $10 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 9 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1656) |
 | 164.0 | $10 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 7 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1314) |
+| 160.0 | $10 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4114) |
+| 160.0 | $10 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4113) |
 | 160.0 | $10 | 2 comments | `doomsday-network/doom-pay` | [[STEAM VAULT] 🎮 Exchange 100,000 DOOM ($wDOOM) for a $10 Steam Digital Gift Card! (10 / 10 Available — $100 USD Vault)](https://github.com/doomsday-network/doom-pay/issues/4) |
 | 160.0 | $100 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 8 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1315) |
 | 160.0 | $150 | 0 comments | `habibdxb01/bounty-watcher` | [📋 2 open bounties right now](https://github.com/habibdxb01/bounty-watcher/issues/8) |
