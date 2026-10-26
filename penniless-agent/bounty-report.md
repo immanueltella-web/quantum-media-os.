@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-26 12:54 UTC**
+Updated: **2026-10-26 19:15 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -16,18 +16,18 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 150.0 | $100 | 2 comments | `alfrexo95/bounty-bot` | [💰 Bounty Seguro ($$100): [Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-qu](https://github.com/alfrexo95/bounty-bot/issues/27) |
 | 150.0 | $100 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] 💰 Bounty Seguro ($$100): [Bounty] USDC-quoted pairs not having the correct ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4109) |
 | 150.0 | $250 | 2 comments | `limitlessprojects/Go-Hybrid` | [[wildcard] Erase the .hy / .go Split: Whole-Package Tier-0 Checking via Native Go AST and Export-Data Analysis](https://github.com/limitlessprojects/Go-Hybrid/issues/186) |
-| 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-26T12:48](https://github.com/relayhop/sn-monetization-runtime/issues/1339) |
-| 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-26T12:48](https://github.com/relayhop/sn-monetization-runtime/issues/1338) |
-| 137.0 | unknown | 0 comments | `relayhop/sn-monetization-runtime` | [[radar] SN open bounty 2026-10-26T06:01](https://github.com/relayhop/sn-monetization-runtime/issues/1337) |
-| 137.0 | unknown | 0 comments | `jdhart81/viridis-canon` | [[bounty] Run-127: abstract reverses the event in cantelli_capacity_certificate](https://github.com/jdhart81/viridis-canon/issues/146) |
+| 137.0 | unknown | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/23) |
+| 137.0 | unknown | 0 comments | `abdulsalam-create/bounty-watch` | [bounty-watch 2026-10-26: 0 new, 4 resumed, 4 watchlist changes](https://github.com/abdulsalam-create/bounty-watch/issues/175) |
 | 137.0 | unknown | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 9 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/22) |
-| 137.0 | unknown | 0 comments | `jdhart81/viridis-canon` | [[bounty] Run-122: strict concavity omits the positive-angle hypothesis](https://github.com/jdhart81/viridis-canon/issues/145) |
 | 137.0 | unknown | 0 comments | `abdulsalam-create/bounty-watch` | [bounty-watch 2026-10-26: 0 new, 0 resumed, 5 watchlist changes](https://github.com/abdulsalam-create/bounty-watch/issues/174) |
 | 137.0 | unknown | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1671) |
 | 137.0 | unknown | 0 comments | `panoskokmotos/panoskokmotos` | [ZecHub bounty: Arabic: native review of the ZecHub glossary and menus (0.025 ZEC)](https://github.com/panoskokmotos/panoskokmotos/issues/17) |
 | 137.0 | unknown | 0 comments | `panoskokmotos/panoskokmotos` | [ZecHub bounty: German: native review of the ZecHub glossary and menus (0.025 ZEC)](https://github.com/panoskokmotos/panoskokmotos/issues/16) |
 | 137.0 | unknown | 0 comments | `panoskokmotos/panoskokmotos` | [ZecHub bounty: French: native review of the ZecHub glossary and menus (0.025 ZEC)](https://github.com/panoskokmotos/panoskokmotos/issues/15) |
 | 137.0 | unknown | 0 comments | `panoskokmotos/panoskokmotos` | [ZecHub bounty: Japanese: native review of the ZecHub glossary and menus (0.025 ZEC)](https://github.com/panoskokmotos/panoskokmotos/issues/14) |
+| 137.0 | unknown | 0 comments | `panoskokmotos/panoskokmotos` | [ZecHub bounty: Korean: native review of the ZecHub glossary and menus (0.025 ZEC)](https://github.com/panoskokmotos/panoskokmotos/issues/13) |
+| 137.0 | unknown | 0 comments | `panoskokmotos/panoskokmotos` | [ZecHub bounty: Russian: native review of the ZecHub glossary and menus (0.025 ZEC)](https://github.com/panoskokmotos/panoskokmotos/issues/12) |
+| 137.0 | unknown | 0 comments | `panoskokmotos/panoskokmotos` | [ZecHub bounty: Turkish: native review of the ZecHub glossary and menus (0.025 ZEC)](https://github.com/panoskokmotos/panoskokmotos/issues/11) |
 
 ## Agent decision rule
 
