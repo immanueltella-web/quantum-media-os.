@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-29 21:47 UTC**
+Updated: **2026-10-30 01:55 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -8,7 +8,8 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 
 | Score | Reward | Competition | Repository | Issue |
 |---:|---:|---:|---|---|
-| 172.0 | $250 | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 7 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/34) |
+| 172.0 | $200 | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 12 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/39) |
+| 164.0 | $3.01 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 10 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1697) |
 | 156.0 | $250 | 1 comments | `alfrexo95/bounty-bot` | [💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bount](https://github.com/alfrexo95/bounty-bot/issues/60) |
 | 150.0 | $250 | 2 comments | `alfrexo95/bounty-bot` | [💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ](https://github.com/alfrexo95/bounty-bot/issues/58) |
 | 150.0 | $250 | 2 comments | `alfrexo95/bounty-bot` | [💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserv](https://github.com/alfrexo95/bounty-bot/issues/54) |
@@ -25,7 +26,6 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 137.0 | unknown | 0 comments | `paraspell/xcm-tools` | [[Bug bounty] XCM API: handleXcmApiError turns the API's own BadRequestException into 500 (/best-amount-out without swapOptions, batch chain validation)](https://github.com/paraspell/xcm-tools/issues/2369) |
 | 137.0 | unknown | 0 comments | `paraspell/xcm-tools` | [[Bug bounty] XCM API: /x-transfer-batch rejects chains defined in options.customChains (batch-level customChains never reach chain validation)](https://github.com/paraspell/xcm-tools/issues/2368) |
 | 137.0 | unknown | 0 comments | `paraspell/xcm-tools` | [[Bug bounty] XCM API: /x-transfer-batch returns 500 for any transfer with transactOptions.maxWeight (BigInt not serialisable in analytics)](https://github.com/paraspell/xcm-tools/issues/2367) |
-| 137.0 | unknown | 0 comments | `abdulsalam-create/bounty-watch` | [bounty-watch 2026-10-29: 0 new, 0 resumed, 7 watchlist changes](https://github.com/abdulsalam-create/bounty-watch/issues/189) |
 | 132.0 | $0 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 5 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1349) |
 | 128.0 | $250 | 4 comments | `limitlessprojects/Go-Hybrid` | [[wildcard] Make FFI claims proof-carrying: verify boundary contracts against the linked Rust artifact](https://github.com/limitlessprojects/Go-Hybrid/issues/610) |
 
