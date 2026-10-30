@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-10-30 15:53 UTC**
+Updated: **2026-10-30 20:44 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -14,20 +14,20 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 156.0 | $250 | 1 comments | `alfrexo95/bounty-bot` | [💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] 💰 Bount](https://github.com/alfrexo95/bounty-bot/issues/60) |
 | 150.0 | $250 | 2 comments | `alfrexo95/bounty-bot` | [💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): [Bounty] Preserv](https://github.com/alfrexo95/bounty-bot/issues/54) |
 | 150.0 | $250 | 2 comments | `alfrexo95/bounty-bot` | [💰 Bounty Seguro ($$250): [Bounty] Preserve RFC 7239 `Forwarded` host author](https://github.com/alfrexo95/bounty-bot/issues/53) |
+| 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/4133) |
+| 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/4132) |
+| 146.0 | $750 | 1 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 13 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1355) |
 | 144.0 | $250 | 3 comments | `alfrexo95/bounty-bot` | [💰 Bounty Seguro ($$250): [Bounty] 💰 Bounty Seguro ($$250): 💰 Bounty Seguro ](https://github.com/alfrexo95/bounty-bot/issues/58) |
 | 142.0 | $1500 | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 7 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/41) |
-| 142.0 | $20000 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 13 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1694) |
+| 140.0 | $0 | 2 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/4134) |
+| 137.0 | unknown | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 15 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/43) |
 | 137.0 | unknown | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 18 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1701) |
 | 137.0 | unknown | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 18 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1354) |
 | 137.0 | unknown | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 9 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/42) |
 | 137.0 | unknown | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 9 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1353) |
 | 137.0 | unknown | 0 comments | `abdulsalam-create/bounty-watch` | [bounty-watch 2026-10-30: 0 new, 0 resumed, 5 watchlist changes](https://github.com/abdulsalam-create/bounty-watch/issues/194) |
-| 137.0 | unknown | 0 comments | `abdulsalam-create/bounty-watch` | [bounty-watch 2026-10-29: 0 new, 1 resumed, 4 watchlist changes](https://github.com/abdulsalam-create/bounty-watch/issues/190) |
-| 137.0 | unknown | 0 comments | `paraspell/xcm-tools` | [[Bug bounty] SDK (PJS): getDryRunCall reads resultJson.ok.local_xcm, but polkadot.js toJSON() emits localXcm — XcmPaymentApi fee path is dead, feeAsset fees reported in the native token but labelled as the fee asset](https://github.com/paraspell/xcm-tools/issues/2377) |
-| 137.0 | unknown | 0 comments | `paraspell/xcm-tools` | [[Bug bounty] XCM API ignores disableFallback in /origin-xcm-fee (sibling of #2179)](https://github.com/paraspell/xcm-tools/issues/2376) |
-| 137.0 | unknown | 0 comments | `paraspell/xcm-tools` | [[Bug bounty] SWAP: getRouterFees does not forward disableFallback to getSwapFee](https://github.com/paraspell/xcm-tools/issues/2374) |
-| 137.0 | unknown | 0 comments | `paraspell/xcm-tools` | [[Bug bounty] SDK (PJS): signAndSubmitFinalized never settles on Dropped/Invalid/Usurped/FinalityTimeout and never unsubscribes](https://github.com/paraspell/xcm-tools/issues/2373) |
 | 134.0 | $0 | 3 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 3 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/4117) |
+| 132.0 | $0 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 5 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1349) |
 
 ## Agent decision rule
 
