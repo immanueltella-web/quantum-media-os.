@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-11-07 12:54 UTC**
+Updated: **2026-11-07 18:01 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -8,26 +8,26 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 
 | Score | Reward | Competition | Repository | Issue |
 |---:|---:|---:|---|---|
-| 166.0 | $1 | 1 comments | `paraspell/xcm-tools` | [[Bug bounty] Swap: canBuildToExchangeTx calls BigInt(amount) before applyDecimalAbstraction, swallowing SyntaxError on fractional amounts and bypassing route validation](https://github.com/paraspell/xcm-tools/issues/2447) |
-| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/4494) |
-| 162.0 | $600 | 0 comments | `WholeTroutMedia/agent-conformance-quarantine` | [[Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/2) |
-| 162.0 | $600 | 0 comments | `WholeTroutMedia/protocol-conformance-relay` | [[Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (_latch_slab_checkpoint_v2)](https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/2) |
-| 146.0 | $450 | 1 comments | `IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix` | [💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1) |
-| 146.0 | $450 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Escrowed $450 USDC] 20-Vector Conformance Suite: Streaming MCP SSE Chunk Bounda](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4205) |
-| 146.0 | $450 | 1 comments | `WholeTroutMedia/agent-conformance-quarantine` | [[Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff](https://github.com/WholeTroutMedia/agent-conformance-quarantine/issues/1) |
-| 146.0 | $450 | 1 comments | `WholeTroutMedia/protocol-conformance-relay` | [[Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (align_slab_index_60e)](https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/1) |
-| 146.0 | $500 | 1 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Canary-Trap-06] Implement batch checkpoint verifier (Self-Labeled Decoy Bounty)](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/6) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/4572) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/4571) |
+| 162.0 | $350 | 0 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Bounty $350] docs(validator): add docstring usage examples for verify_sequence_gap in src/ledger_validator.py](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/16) |
+| 162.0 | $400 | 0 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Bounty $400] fix(validator): handle missing seq key in verify_sequence_gap header dicts](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/7) |
+| 162.0 | $500 | 0 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Bounty $500] perf(ledger): optimize 64-frame checkpoint boundary arithmetic in compute_checkpoint_boundary](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/9) |
+| 162.0 | $650 | 0 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Bounty $650] test(validator): verify path normalization for \ancestors\archive\batch_07 in verify_sequence_gap](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/17) |
+| 162.0 | $750 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $750] feat(validator): support custom step_size in verify_sequence_gap](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4244) |
+| 150.0 | $550 | 0 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Bounty $550] feat(cli): add JSON sequence gap serializer in src/cli/format_report.py](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/8) |
+| 150.0 | $750 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 10 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1738) |
+| 150.0 | $750 | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 9 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/75) |
+| 146.0 | $350 | 1 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Bounty $350] perf(validator): add empty-slice fast path to verify_sequence_gap in src/ledger_validator.py](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/3) |
+| 146.0 | $450 | 1 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Bounty $450] refactor(validator): extract checkpoint divisor constant in src/ledger_validator.py](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/5) |
+| 146.0 | $600 | 1 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Bounty $600] feat(validator): implement verify_checkpoint_batch in src/ledger_validator.py](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/6) |
 | 146.0 | $600 | 1 comments | `IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix` | [💎 [Escrowed $600 USDC] 24-Vector Conformance Suite: PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2) |
-| 146.0 | $600 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Escrowed $600 USDC] 20-Vector Conformance Suite: PagedAttention KV-Cache Block ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4206) |
-| 146.0 | $750 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $750] Fix remaining sharded scale_mask_softmax mask handling issues](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4243) |
+| 146.0 | $750 | 1 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Bounty $750] feat(validator): support custom step_size in verify_sequence_gap](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/20) |
 | 146.0 | $750 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $750] Fix sharded softmax on offset core grids](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4225) |
+| 146.0 | $850 | 1 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Bounty $850] ci(workflow): synchronize contributor check job IDs across GitHub Actions workflows](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/21) |
+| 144.0 | $600 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 15 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1389) |
 | 140.0 | $0.15 | 2 comments | `Scottcjn/rustchain-bounties` | [[BOUNTY: 35 RTC] Vintage miner port: Motorola 68K — Amiga, Atari ST/TT/Falcon or classic 68K Mac on its native OS, with real-hardware proof](https://github.com/Scottcjn/rustchain-bounties/issues/17186) |
 | 140.0 | $0.15 | 2 comments | `Scottcjn/rustchain-bounties` | [[BOUNTY: 35 RTC] Vintage miner port: SPARC — SPARCstation / UltraSPARC on SunOS, Solaris or NetBSD, with real-hardware proof](https://github.com/Scottcjn/rustchain-bounties/issues/17185) |
-| 140.0 | $450 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] 💎 [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressu](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4224) |
-| 140.0 | $450 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4222) |
-| 140.0 | $450 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4220) |
-| 140.0 | $450 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4217) |
-| 140.0 | $450 | 2 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] 💎 [Escrowed $450 USDC] 24-Vector Conformance Suite: Streaming MCP SSE Chunk Boun](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4216) |
 
 ## Agent decision rule
 
