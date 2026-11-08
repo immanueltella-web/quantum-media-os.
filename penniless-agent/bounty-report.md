@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-11-08 01:24 UTC**
+Updated: **2026-11-08 08:56 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -8,12 +8,10 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 
 | Score | Reward | Competition | Repository | Issue |
 |---:|---:|---:|---|---|
+| 182.0 | $35 | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 4 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/78) |
 | 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/4572) |
 | 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/4571) |
-| 162.0 | $350 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $350] docs(validator): add docstring usage examples for verify_sequence_](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4253) |
-| 162.0 | $400 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $400] fix(validator): handle missing seq key in verify_sequence_gap head](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4256) |
 | 162.0 | $400 | 0 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Bounty $400] fix(validator): handle missing seq key in verify_sequence_gap header dicts](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/7) |
-| 162.0 | $450 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $450] refactor(validator): extract checkpoint divisor constant in src/le](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4258) |
 | 162.0 | $500 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $500] perf(ledger): optimize 64-frame checkpoint boundary arithmetic in ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4254) |
 | 162.0 | $500 | 0 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Bounty $500] perf(ledger): optimize 64-frame checkpoint boundary arithmetic in compute_checkpoint_boundary](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/9) |
 | 162.0 | $600 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $600] feat(validator): implement verify_checkpoint_batch in src/ledger_v](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4257) |
@@ -28,6 +26,8 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 162.0 | $950 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $950] feat(validator): enforce CANONICAL_GAP_CONTRACT in verify_sequence](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4249) |
 | 162.0 | $950 | 0 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Bounty $950] feat(validator): enforce CANONICAL_GAP_CONTRACT in verify_sequence_gap](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/45) |
 | 150.0 | $450 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 10 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1739) |
+| 150.0 | $550 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $550] feat(cli): add JSON sequence gap serializer in src/cli/format_repo](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4255) |
+| 150.0 | $550 | 0 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Bounty $550] feat(cli): add JSON sequence gap serializer in src/cli/format_report.py](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/8) |
 
 ## Agent decision rule
 
