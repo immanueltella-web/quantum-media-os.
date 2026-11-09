@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-11-08 20:27 UTC**
+Updated: **2026-11-09 00:49 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -26,8 +26,8 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 162.0 | $600 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1743) |
 | 162.0 | $600 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 23 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1394) |
 | 162.0 | $650 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $650] test(validator): verify path normalization for \ancestors\archive\](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4252) |
-| 162.0 | $750 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $750] feat(validator): support custom step_size in verify_sequence_gap](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4244) |
 | 162.0 | $800 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Bounty $800] refactor(validator): handle legacy sequence key alias in verify_se](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4247) |
+| 162.0 | $800 | 0 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Bounty $800] refactor(validator): handle legacy sequence key alias in verify_sequence_gap](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/47) |
 
 ## Agent decision rule
 
