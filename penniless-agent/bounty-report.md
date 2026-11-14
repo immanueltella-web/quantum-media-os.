@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-11-14 17:01 UTC**
+Updated: **2026-11-14 21:26 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -21,9 +21,9 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 | 162.0 | $450 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Escrowed $450 USDC] Fix CPI frame ceiling boundary and satisfy 64-bit account b](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4341) |
 | 162.0 | $450 | 0 comments | `IES-BoilerRoom/solana-svm-cpi-conformance` | [[Escrowed $450 USDC] Fix CPI frame ceiling boundary and satisfy 64-bit account borrow-mask transfer equation (`decode_cpi_instruction_frames`)](https://github.com/IES-BoilerRoom/solana-svm-cpi-conformance/issues/1) |
 | 162.0 | $450 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Escrowed $450 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preferenc](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4317) |
+| 162.0 | $450 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 21 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1416) |
 | 162.0 | $450 | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 21 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/105) |
 | 162.0 | $450 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 21 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1764) |
-| 162.0 | $450 | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 7 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/103) |
 | 162.0 | $600 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Escrowed $600 USDC] Prevent aliasing mutable ref-cell bitmask collision across ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4339) |
 | 162.0 | $600 | 0 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Escrowed $600 USDC] Align Posted/Non-Posted header credit wrap mask under 256B ](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4338) |
 | 162.0 | $600 | 0 comments | `IES-BoilerRoom/pcie-tlp-credit-flow-gate` | [[Escrowed $600 USDC] Align Posted/Non-Posted header credit wrap mask under 256B FLIT packing (`pcie-tlp-credit-flow-gate`)](https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/2) |
