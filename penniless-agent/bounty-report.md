@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-11-18 12:59 UTC**
+Updated: **2026-11-18 21:23 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -8,26 +8,26 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 
 | Score | Reward | Competition | Repository | Issue |
 |---:|---:|---:|---|---|
-| 182.0 | $5 | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 21 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/121) |
-| 182.0 | $5 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 20 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1778) |
-| 182.0 | $5 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 15 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1429) |
-| 172.0 | $100 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 7 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1430) |
+| 172.0 | $200 | 0 comments | `IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix` | [ci/mpsc: Eliminate ABA generation counter skew across heterogeneous ring capacities - Reward $200 USDC](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2) |
+| 172.0 | $200 | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 14 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/123) |
+| 172.0 | $200 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 13 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1780) |
+| 172.0 | $200 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1431) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5255) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5254) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5253) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5252) |
 | 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 3 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5190) |
-| 162.0 | $450 | 0 comments | `IES-BoilerRoom/wgsl-transcendental-math-core` | [[Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FMA range-reduction tie-break (`fold_wgsl_radiance_frames`)](https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1) |
-| 162.0 | $600 | 0 comments | `IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix` | [[Escrowed $600 USDC] Eliminate ABA generation counter skew across heterogeneous ring capacities (`tokio-ringbuffer-seqcst-matrix`)](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2) |
+| 156.0 | $100 | 1 comments | `IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix` | [bug: Fix slot batch ceiling check and align multi-stride ring wrap-around residue (`drain_mpsc_epoch_frames`) [Reward: $100 USDC]](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1) |
+| 156.0 | $150 | 1 comments | `IES-BoilerRoom/wgsl-transcendental-math-core` | [($150) perf/fix: Correct packet frame boundary clamp and 0.5-ULP FMA range-reduction tie-break (fold_wgsl_radiance_frames)](https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1) |
+| 156.0 | $200 | 1 comments | `IES-BoilerRoom/wgsl-transcendental-math-core` | [fix(shader_math): Align WGSL constant-eval Horner polynomial rounding with runtime pipeline ($200 bounty) [wgsl-transcendental-math-core]](https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/2) |
 | 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5191) |
 | 146.0 | $450 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Escrowed $450 USDC] Correct packet frame boundary clamp and 0.5-ULP FMA range-r](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4370) |
-| 146.0 | $450 | 1 comments | `IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix` | [[Escrowed $450 USDC] Fix slot batch ceiling check and align multi-stride ring wrap-around residue (`drain_mpsc_epoch_frames`)](https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/1) |
 | 146.0 | $600 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial rounding with ru](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4369) |
-| 146.0 | $600 | 1 comments | `IES-BoilerRoom/wgsl-transcendental-math-core` | [[Escrowed $600 USDC] Align WGSL constant-eval Horner polynomial rounding with runtime pipeline (`wgsl-transcendental-math-core`)](https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/2) |
-| 137.0 | unknown | 0 comments | `hanzoai/hips` | [[HIP-1347] Umbrella Research Bounties: Event-Driven Agent Reliability](https://github.com/hanzoai/hips/issues/17) |
-| 137.0 | unknown | 0 comments | `hanzoai/hips` | [[HIP-1346] Umbrella Research Bounties: Evidence-Grounded Retrieval and Decision Evaluation](https://github.com/hanzoai/hips/issues/16) |
-| 137.0 | unknown | 0 comments | `hanzoai/hips` | [[HIP-1345] Umbrella Research Bounties: Agent-Aware Model Serving and Cache Reuse](https://github.com/hanzoai/hips/issues/15) |
-| 137.0 | unknown | 0 comments | `hanzoai/hips` | [[HIP-1344] Umbrella Research Bounties: Agent-Optimized Storage and Recovery](https://github.com/hanzoai/hips/issues/14) |
-| 137.0 | unknown | 0 comments | `amirmomeni177/bounty-watch` | [Scope digest 2026-11-18: 8 changes across 6 bounty programs](https://github.com/amirmomeni177/bounty-watch/issues/7) |
-| 137.0 | unknown | 0 comments | `paraspell/xcm-tools` | [[Bug bounty] SDK: getTransferInfo reports xcmFee.sufficient: true when the native fee balance ends at exactly -ED](https://github.com/paraspell/xcm-tools/issues/2564) |
-| 128.0 | $250 | 4 comments | `limitlessprojects/Go-Hybrid` | [[wildcard] GUARANTEES.md row 12 is wrong: cancellation-safety is a one-pass corollary of Tier-0](https://github.com/limitlessprojects/Go-Hybrid/issues/352) |
-| 125.0 | unknown | 0 comments | `transitfabric/releases` | [Bounty registration](https://github.com/transitfabric/releases/issues/9) |
+| 144.0 | $0.03 | 0 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Wave 11] fix(xdr): reject boolean ledger sequence inputs and align 64-frame checkpoint math in src/ledger_validator.py](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/115) |
+| 144.0 | $0.03 | 0 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Wave 11] fix(soroban): clamp instance storage TTL extension against max_ttl in contracts/soroban_ttl_guard.rs](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/111) |
+| 144.0 | $0.04 | 0 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Wave 11] fix(rpc): enforce BigInt stroops fee floor and SEP-10 challenge window in src/x402_payment_guard.ts](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/113) |
+| 144.0 | $0.04 | 0 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Wave 11] feat(soroban): add ledger-skew replay window check in src/soroban_math.rs](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/112) |
+| 144.0 | $0.05 | 0 comments | `PhanKhoa95/oss-bot-trap-benchmark` | [[Wave 11] security(bridge): synchronize 128-bit fee rounding invariant across contracts/sbtc_vault.clar and src/soroban_math.rs](https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/116) |
 
 ## Agent decision rule
 
