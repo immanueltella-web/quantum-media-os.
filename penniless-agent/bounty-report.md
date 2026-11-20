@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-11-19 21:28 UTC**
+Updated: **2026-11-20 03:07 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -10,24 +10,24 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 |---:|---:|---:|---|---|
 | 182.0 | $4 | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 14 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/126) |
 | 182.0 | $4 | 0 comments | `freedom-winds/BountyScout` | [🎯 Bounty Alert: 13 New Opportunityies found](https://github.com/freedom-winds/BountyScout/issues/1434) |
-| 182.0 | $20 | 0 comments | `ADT-community/adt-community.github.io` | [Figma: design ADT Work, the task platform](https://github.com/ADT-community/adt-community.github.io/issues/9) |
-| 182.0 | $20 | 0 comments | `ADT-community/trans_sport` | [Implement the driver app UI from the Figma](https://github.com/ADT-community/trans_sport/issues/23) |
-| 182.0 | $20 | 0 comments | `ADT-community/adt-community.github.io` | [Community set-up: Discord and weekly updates](https://github.com/ADT-community/adt-community.github.io/issues/5) |
-| 182.0 | $20 | 0 comments | `ADT-community/content_feed` | [Figma: design the creator app](https://github.com/ADT-community/content_feed/issues/10) |
-| 182.0 | $20 | 0 comments | `ADT-community/locallity_ai` | [Figma: design the voice assistant app](https://github.com/ADT-community/locallity_ai/issues/14) |
-| 182.0 | $20 | 0 comments | `ADT-community/trans_sport` | [Figma: design the owner dashboard](https://github.com/ADT-community/trans_sport/issues/15) |
-| 182.0 | $20 | 0 comments | `ADT-community/trans_sport` | [Figma: design the driver app](https://github.com/ADT-community/trans_sport/issues/13) |
-| 182.0 | $20 | 0 comments | `ADT-community/locallity_ai` | [Knowledge base: trusted sources and grounded answers](https://github.com/ADT-community/locallity_ai/issues/7) |
-| 182.0 | $20 | 0 comments | `ADT-community/trans_sport` | [Connect the driver app and owner dashboard to the backend](https://github.com/ADT-community/trans_sport/issues/4) |
+| 182.0 | $20 | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 14 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/127) |
+| 172.0 | $175 | 0 comments | `IES-BoilerRoom/nvme-zns-bch-ecc-simulator` | [ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC](https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2) |
+| 172.0 | $250 | 0 comments | `IES-BoilerRoom/ebpf-verifier-reg-bounds` | [[$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bounds)](https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2) |
 | 170.0 | $4 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 11 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1783) |
-| 170.0 | $20 | 0 comments | `ADT-community/trans_sport` | [Implement the owner dashboard UI from the Figma](https://github.com/ADT-community/trans_sport/issues/24) |
-| 166.0 | $20 | 1 comments | `ADT-community/locallity_ai` | [Business API: keys, usage metering and docs](https://github.com/ADT-community/locallity_ai/issues/28) |
-| 166.0 | $20 | 1 comments | `ADT-community/trans_sport` | [Sales kit: owner pitch and pricing page](https://github.com/ADT-community/trans_sport/issues/26) |
-| 166.0 | $20 | 1 comments | `ADT-community/adt-community.github.io` | [Payout operations: platform, private form and process](https://github.com/ADT-community/adt-community.github.io/issues/7) |
-| 166.0 | $20 | 1 comments | `ADT-community/adt-community.github.io` | [Launch kit: posts, 60-second video and 20 communities](https://github.com/ADT-community/adt-community.github.io/issues/2) |
-| 166.0 | $20 | 1 comments | `ADT-community/locallity_ai` | [Language research: pick our first language](https://github.com/ADT-community/locallity_ai/issues/3) |
-| 166.0 | $20 | 1 comments | `ADT-community/locallity_ai` | [Core API v1 with a safety prompt](https://github.com/ADT-community/locallity_ai/issues/4) |
-| 166.0 | $20 | 1 comments | `ADT-community/trans_sport` | [Market research: pilot city, 3 owner interviews and pricing](https://github.com/ADT-community/trans_sport/issues/9) |
+| 166.0 | $20 | 1 comments | `alfrexo95/bounty-bot` | [🪙 [Web3] [Wave 3: 2 × $20 USDC \| 3-Year Protocol Trajectory](https://github.com/alfrexo95/bounty-bot/issues/96) |
+| 166.0 | $20 | 1 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] [Wave 3: 2 × $20 USDC \| 3-Year Protocol Trajectory & Integrity Dossiers] Human-R](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4374) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5373) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5372) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5370) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5369) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5368) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5367) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5366) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5365) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5364) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5363) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 3 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5362) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 3 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5361) |
 
 ## Agent decision rule
 
