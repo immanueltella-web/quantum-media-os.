@@ -1,6 +1,6 @@
 # XOOL Penniless Agent — Bounty Report
 
-Updated: **2026-11-24 15:49 UTC**
+Updated: **2026-11-25 00:39 UTC**
 
 Mission: find the fastest credible route to the first **£1 actually received**.
 
@@ -8,26 +8,26 @@ Mission: find the fastest credible route to the first **£1 actually received**.
 
 | Score | Reward | Competition | Repository | Issue |
 |---:|---:|---:|---|---|
-| 172.0 | $250 | 0 comments | `limitlessprojects/Go-Hybrid` | [[wildcard] The expressiveness census: port real Go programs to .hy and count what Tier-0 forces you to rewrite](https://github.com/limitlessprojects/Go-Hybrid/issues/4739) |
-| 166.0 | $50 | 1 comments | `madin-ll/bounty-pipeline-e2e-verify` | [💎 Bounty $50: parse_duration drops the days (d) unit](https://github.com/madin-ll/bounty-pipeline-e2e-verify/issues/1) |
-| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5568) |
-| 156.0 | $75 | 1 comments | `IES-BoilerRoom/vllm-paged-kv-verifier` | [ci/kv_cache: Fix KV frame chunk ceiling and reconcile multi-head block stride congruences - Reward $75 USDC](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1) |
-| 156.0 | $225 | 1 comments | `IES-BoilerRoom/pcie-tlp-credit-flow-gate` | [[225 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit bitvector identity (reassemble_tlp_flit_frames)](https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/1) |
-| 150.0 | $175 | 2 comments | `IES-BoilerRoom/bgp-med-oscillation-verifier` | [[175 USDC] Fix BGP attribute chunk boundary and resolve 4-AS preference matrix trace invariant (normalize_bgp_update_frames)](https://github.com/IES-BoilerRoom/bgp-med-oscillation-verifier/issues/1) |
-| 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 3 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5642) |
-| 146.0 | $0 | 1 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 4 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5641) |
-| 146.0 | $0 | 1 comments | `alfrexo95/bounty-bot` | [🪙 [Web3] [Bounty] Answer the 4 linked question(s)](https://github.com/alfrexo95/bounty-bot/issues/100) |
-| 146.0 | $300 | 1 comments | `IES-BoilerRoom/vllm-paged-kv-verifier` | [[$300] fix(kv_cache): Align prefix-cache copy-on-write watermark across TP=8 shard moduli (vllm-paged-kv-verifier)](https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2) |
-| 144.0 | $125 | 3 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4383) |
-| 144.0 | $250 | 3 comments | `zhangjiayang6835-cyber/bounty-plaza` | [[Bounty] fix(dwarf_trace): Preserve exact column-offset delta invariants across exception](https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4382) |
-| 140.0 | $0 | 2 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5645) |
-| 140.0 | $0 | 2 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5644) |
-| 140.0 | $350 | 2 comments | `IES-BoilerRoom/pcie-tlp-credit-flow-gate` | [($350) perf/fix: Align Posted/Non-Posted header credit wrap mask under 256B FLIT packing (pcie-tlp-credit-flow-gate)](https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/2) |
-| 137.0 | unknown | 0 comments | `limitlessprojects/Go-Hybrid` | [[wildcard] Make an ownership-breaking release produce its smallest downstream client](https://github.com/limitlessprojects/Go-Hybrid/issues/4729) |
-| 137.0 | unknown | 0 comments | `limitlessprojects/Go-Hybrid` | [[wildcard] Bind an orientation decision to the vertices it is allowed to change](https://github.com/limitlessprojects/Go-Hybrid/issues/4642) |
-| 137.0 | unknown | 0 comments | `Fishers-Founders-United/Swapatron5000` | [Bounty (2): Design bin labels with icons](https://github.com/Fishers-Founders-United/Swapatron5000/issues/97) |
-| 137.0 | unknown | 0 comments | `Fishers-Founders-United/Swapatron5000` | [Bounty (2): Design the sign for the front of the box](https://github.com/Fishers-Founders-United/Swapatron5000/issues/96) |
-| 137.0 | unknown | 0 comments | `Fishers-Founders-United/Swapatron5000` | [Bounty (2): Draw a logo a kid would want as a sticker](https://github.com/Fishers-Founders-United/Swapatron5000/issues/95) |
+| 182.0 | $5 | 0 comments | `dev-kp-eloper/BountyScout` | [🎯 Bounty Alert: 14 New Opportunityies found](https://github.com/dev-kp-eloper/BountyScout/issues/1802) |
+| 182.0 | $5 | 0 comments | `viniciusscience/fishid-studio` | [[Sponsor-Funded Bounty $5] feat(qa & api): automated pytest suite, batch prediction, EXIF privacy & CI](https://github.com/viniciusscience/fishid-studio/issues/9) |
+| 172.0 | $125 | 0 comments | `IES-BoilerRoom/cpython-pep626-line-profiler` | [fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction-envelope residue ($125 bounty) [collect_trace_event_frames]](https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1) |
+| 172.0 | $175 | 0 comments | `IES-BoilerRoom/zk-plonk-transcript-verifier` | [ci/plonk_kzg: Fix transcript chunk boundary check and grand-product coset shift witness - Reward $175 USDC](https://github.com/IES-BoilerRoom/zk-plonk-transcript-verifier/issues/1) |
+| 172.0 | $250 | 0 comments | `IES-BoilerRoom/cpython-pep626-line-profiler` | [fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-pep626-line-profiler]](https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2) |
+| 164.0 | $5 | 0 comments | `Rohank143/BountyScout` | [🎯 Bounty Alert: 15 New Opportunityies found](https://github.com/Rohank143/BountyScout/issues/144) |
+| 162.0 | $0 | 0 comments | `alfrexo95/bounty-bot` | [🪙 [Web3] [Bounty] Answer the 5 linked question(s)](https://github.com/alfrexo95/bounty-bot/issues/103) |
+| 162.0 | $0 | 0 comments | `alfrexo95/bounty-bot` | [🪙 [Web3] [Bounty] Answer the 3 linked question(s)](https://github.com/alfrexo95/bounty-bot/issues/102) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5749) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5748) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5747) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5746) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5745) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5744) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5743) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5742) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5740) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5741) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 2 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5739) |
+| 162.0 | $0 | 0 comments | `Ikalus1988/MisakaNet` | [[Bounty] Answer the 3 linked question(s)](https://github.com/Ikalus1988/MisakaNet/issues/5737) |
 
 ## Agent decision rule
 
